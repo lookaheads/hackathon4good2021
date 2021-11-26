@@ -1,0 +1,1115 @@
+Parameter.groep,Parameter.code,Parameter.omschrijving,Grootheid.code,Eenheid.code
+Biotaxon,,,AANTL,n
+Biotaxon,,,AANTPVLME,n/l
+Biotaxon,,,AANTPVLME,n/ml
+Biotaxon,,,VOLMFTE,mm3/l
+ChemischeStof,1112T4ClC2a,"1,1,1,2-tetrachloorethaan",CONCTTE,ug/l
+ChemischeStof,111TClC2a,"1,1,1-trichloorethaan",CONCTTE,ug/l
+ChemischeStof,1122T4ClC2a,"1,1,2,2-tetrachloorethaan",CONCTTE,ug/l
+ChemischeStof,112TClC2a,"1,1,2-trichloorethaan",CONCTTE,ug/l
+ChemischeStof,11DClC2a,"1,1-dichloorethaan",CONCTTE,ug/l
+ChemischeStof,11DClC2e,"1,1-dichlooretheen",CONCTTE,ug/l
+ChemischeStof,11DClC3a,"1,1-dichloorpropaan",CONCTTE,ug/l
+ChemischeStof,11DClC3e,"1,1-dichloorpropeen",CONCTTE,ug/l
+ChemischeStof,1234T4ClBen,"1,2,3,4-tetrachloorbenzeen",CONCTTE,ug/l
+ChemischeStof,123TC1yBen,"1,2,3-trimethylbenzeen",CONCTTE,ug/l
+ChemischeStof,123TClBen,"1,2,3-trichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,123TClC3a,"1,2,3-trichloorpropaan",CONCTTE,ug/l
+ChemischeStof,123benztazl,"1,2,3-benzotriazool",CONCTTE,ng/l
+ChemischeStof,123benztazl,"1,2,3-benzotriazool",CONCTTE,ug/l
+ChemischeStof,124TC1yBen,"1,2,4-trimethylbenzeen",CONCTTE,ug/l
+ChemischeStof,124TClBen,"1,2,4-trichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,12DBr3ClC3a,"1,2-dibroom-3-chloorpropaan",CONCTTE,ug/l
+ChemischeStof,12DBrC2a,"1,2-dibroomethaan",CONCTTE,ug/l
+ChemischeStof,12DClBen,"1,2-dichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,12DClC2a,"1,2-dichloorethaan",CONCTTE,ug/l
+ChemischeStof,12DClC3a,"1,2-dichloorpropaan",CONCTTE,ug/l
+ChemischeStof,12xyln,"1,2-xyleen",CONCTTE,ug/l
+ChemischeStof,134DClFy3C1y,"1-(3,4-dichloorfenyl)-3-methylureum",CONCTTE,ug/l
+ChemischeStof,134DClFyurum,"1-(3,4-dichloorfenyl)ureum",CONCTTE,ug/l
+ChemischeStof,135TC1yBen,"1,3,5-trimethylbenzeen",CONCTTE,ug/l
+ChemischeStof,135TClBen,"1,3,5-trichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,13DClBen,"1,3-dichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,13DClC3a,"1,3-dichloorpropaan",CONCTTE,ug/l
+ChemischeStof,14DClBen,"1,4-dichloorbenzeen",CONCTTE,ug/l
+ChemischeStof,14DOxan,"1,4-dioxaan",CONCTTE,ug/l
+ChemischeStof,17bestDol,17beta-estradiol,CONCTTE,ug/l
+ChemischeStof,1C3yBen,1-propylbenzeen,CONCTTE,ug/l
+ChemischeStof,1Nafsfzr,1-naftaleensulfonzuur,CONCTTE,ug/l
+ChemischeStof,1iC3y4C1yBen,1-isopropyl-4-methyl-benzeen,CONCTTE,ug/l
+ChemischeStof,22DClC3a,"2,2-dichloorpropaan",CONCTTE,ug/l
+ChemischeStof,2345T4ClFol,"2,3,4,5-tetrachloorfenol",CONCTTE,ug/l
+ChemischeStof,2346T4ClFol,"2,3,4,6-tetrachloorfenol",CONCTTE,ug/l
+ChemischeStof,234TClFol,"2,3,4-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,2356T4ClFol,"2,3,5,6-tetrachloorfenol",CONCTTE,ug/l
+ChemischeStof,235TClFol,"2,3,5-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,236TClFol,"2,3,6-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,23DClAn,"2,3-dichlooraniline",CONCTTE,ug/l
+ChemischeStof,23DClC3e,"2,3-dichloorpropeen",CONCTTE,ug/l
+ChemischeStof,23DClFol,"2,3-dichloorfenol",CONCTTE,ug/l
+ChemischeStof,245T,"2,4,5-trichloorfenoxyazijnzuur",CONCTTE,ug/l
+ChemischeStof,245TClFol,"2,4,5-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,245TP,"2,4,5-trichloorfenoxypropionzuur",CONCTTE,ug/l
+ChemischeStof,246TBrFol,"2,4,6-tribroomfenol",CONCTTE,ug/l
+ChemischeStof,246TClFol,"2,4,6-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,24D,"2,4-dichloorfenoxyazijnzuur",CONCTTE,ug/l
+ChemischeStof,24DB,"2,4-dichloorfenoxyboterzuur",CONCTTE,ug/l
+ChemischeStof,24DDD,"2,4'-dichloordifenyldichloorethaan",CONCTTE,ug/l
+ChemischeStof,24DDE,"2,4'-dichloordifenyldichlooretheen",CONCTTE,ug/l
+ChemischeStof,24DDT,"2,4'-dichloordifenyltrichloorethaan",CONCTTE,ug/l
+ChemischeStof,24DNO2Fol,"2,4-dinitrofenol",CONCTTE,ug/l
+ChemischeStof,24DP,"2,4-dichloorfenoxypropionzuur",CONCTTE,ug/l
+ChemischeStof,25811T4OaC12,"2,5,8,11-tetraoxadodecaan",CONCTTE,ug/l
+ChemischeStof,26ClF12C6oxT,"2(6chloor-dodecafluorhexoxy)-tetrafluorethaansulfonaat,Kzout",CONCTTE,ng/l
+ChemischeStof,26ClF12C6oxT,"2(6chloor-dodecafluorhexoxy)-tetrafluorethaansulfonaat,Kzout",CONCTTE,ug/l
+ChemischeStof,26DCl4NO2An,"2,6-dichloor-4-nitroaniline",CONCTTE,ug/l
+ChemischeStof,26DClBenAd,"2,6-dichloorbenzamide",CONCTTE,ug/l
+ChemischeStof,26DClFol,"2,6-dichloorfenol",CONCTTE,ug/l
+ChemischeStof,28ClF16C8oxT,"2(8chloor-hexadecafluoroctoxy)-tetrafluorethaansulfonzuur,Kz",CONCTTE,ng/l
+ChemischeStof,28ClF16C8oxT,"2(8chloor-hexadecafluoroctoxy)-tetrafluorethaansulfonzuur,Kz",CONCTTE,ug/l
+ChemischeStof,2Aoactfnn,2-aminoacetofenon,CONCTTE,ug/l
+ChemischeStof,2C1oxC2yactt,2-methoxyethylacetaat,CONCTTE,ug/l
+ChemischeStof,2C1oxC3yactt,2-methoxypropylacetaat,CONCTTE,ug/l
+ChemischeStof,2C1ytobztazl,2-methylthiobenzothiazool,CONCTTE,ug/l
+ChemischeStof,2C2ox2C1yC3a,2-ethoxy-2-methylpropaan,CONCTTE,ug/l
+ChemischeStof,2C2yC6y4C1ox,2-ethylhexyl-4-methoxycinnamaat,CONCTTE,ug/l
+ChemischeStof,2C2yTol,2-ethyltolueen,CONCTTE,ug/l
+ChemischeStof,2ClFol,2-chloorfenol,CONCTTE,ug/l
+ChemischeStof,2ClTol,2-chloortolueen,CONCTTE,ug/l
+ChemischeStof,2FyFol,2-fenylfenol,CONCTTE,ug/l
+ChemischeStof,2HOxatzne,2-hydroxyatrazine,CONCTTE,ug/l
+ChemischeStof,2HOxibpfn,2-hydroxyibuprofen,CONCTTE,ug/l
+ChemischeStof,2NO2Fol,2-nitrofenol,CONCTTE,ug/l
+ChemischeStof,2Nafsfzr,2-naftaleensulfonzuur,CONCTTE,ug/l
+ChemischeStof,2PFC6yC2a1sf,2-(perfluorhexyl)ethaan-1-sulfonzuur (6:2 FTS),CONCTTE,ng/l
+ChemischeStof,2PFC6yC2a1sf,2-(perfluorhexyl)ethaan-1-sulfonzuur (6:2 FTS),CONCTTE,ug/l
+ChemischeStof,345TClFol,"3,4,5-trichloorfenol",CONCTTE,ug/l
+ChemischeStof,34DClAn,"3,4-dichlooraniline",CONCTTE,ug/l
+ChemischeStof,34DClFol,"3,4-dichloorfenol",CONCTTE,ug/l
+ChemischeStof,35DClAn,"3,5-dichlooraniline",CONCTTE,ug/l
+ChemischeStof,35DClFol,"3,5-dichloorfenol",CONCTTE,ug/l
+ChemischeStof,3C1yprdne,3-methylpyridine,CONCTTE,ug/l
+ChemischeStof,3C2yTol,3-ethyltolueen,CONCTTE,ug/l
+ChemischeStof,3Cl4C1yFyura,(3-chloor-4-methylfenyl)urea,CONCTTE,ug/l
+ChemischeStof,3ClC3e,3-chloorpropeen,CONCTTE,ug/l
+ChemischeStof,3ClFol,3-chloorfenol,CONCTTE,ug/l
+ChemischeStof,3ClTol,3-chloortolueen,CONCTTE,ug/l
+ChemischeStof,44DDD,"4,4'-dichloordifenyldichloorethaan",CONCTTE,ug/l
+ChemischeStof,44DDE,"4,4'-dichloordifenyldichlooretheen",CONCTTE,ug/l
+ChemischeStof,44DDT,"4,4'-dichloordifenyltrichloorethaan",CONCTTE,ug/l
+ChemischeStof,4C2yTol,4-ethyltolueen,CONCTTE,ug/l
+ChemischeStof,4C9yFol,4-nonylfenol,CONCTTE,ug/l
+ChemischeStof,4CPA,4-chloorfenoxyazijnzuur,CONCTTE,ug/l
+ChemischeStof,4ClAn,4-chlooraniline,CONCTTE,ug/l
+ChemischeStof,4ClFol,4-chloorfenol,CONCTTE,ug/l
+ChemischeStof,4ClTol,4-chloortolueen,CONCTTE,ug/l
+ChemischeStof,4ttC8yFol,4-tertiair-octylfenol,CONCTTE,ug/l
+ChemischeStof,ADONA,"ammonium 4,8-dioxa-3H-perfluornonanoaat",CONCTTE,ug/l
+ChemischeStof,AMPA,aminomethylfosfonzuur,CONCTTE,ug/l
+ChemischeStof,AcNe,acenafteen,CONCTTE,ug/l
+ChemischeStof,AcNy,acenaftyleen,CONCTTE,ug/l
+ChemischeStof,Ag,zilver,CONCTTE,ug/l
+ChemischeStof,Ag110m,zilver 110m (metastabiel),ACTVTCCTTE,mBq/l
+ChemischeStof,Al,aluminium,CONCTTE,ug/l
+ChemischeStof,Am241,americium 241,ACTVTCCTTE,mBq/l
+ChemischeStof,Ant,antraceen,CONCTTE,ug/l
+ChemischeStof,Aofnzn,aminofenazon,CONCTTE,ug/l
+ChemischeStof,Aoprld,aminopyralid,CONCTTE,ug/l
+ChemischeStof,As,arseen,CONCTTE,ug/l
+ChemischeStof,B,boor,CONCTTE,ug/l
+ChemischeStof,BHT,butylhydroxytolueen (BHT),CONCTTE,ug/l
+ChemischeStof,BZV5,Biochemisch zuurstofverbruik over 5 dagen,CONCTTE,mg/l
+ChemischeStof,BZV5a,Biochemisch zuurstofverbruik met allylthioureum,CONCTTE,mg/l
+ChemischeStof,Ba,barium,CONCTTE,ug/l
+ChemischeStof,BaA,benzo(a)antraceen,CONCTTE,ug/l
+ChemischeStof,BaP,benzo(a)pyreen,CONCTTE,ug/l
+ChemischeStof,BbF,benzo(b)fluorantheen,CONCTTE,ug/l
+ChemischeStof,Be,beryllium,CONCTTE,ug/l
+ChemischeStof,Be7,beryllium 7,ACTVTCCTTE,mBq/l
+ChemischeStof,Ben,benzeen,CONCTTE,ug/l
+ChemischeStof,BghiPe,benzo(ghi)peryleen,CONCTTE,ug/l
+ChemischeStof,BkF,benzo(k)fluorantheen,CONCTTE,ug/l
+ChemischeStof,Br,bromide,CONCTTE,mg/l
+ChemischeStof,BrBen,broombenzeen,CONCTTE,ug/l
+ChemischeStof,BrOxnOcnat,broomoxynil-octanoaat,CONCTTE,ug/l
+ChemischeStof,BrOxnl,broomoxynil,CONCTTE,ug/l
+ChemischeStof,Brpplt,broompropylaat,CONCTTE,ug/l
+ChemischeStof,C1oxfnzde,methoxyfenozide,CONCTTE,ug/l
+ChemischeStof,C1yBrfs,methylbromofos,CONCTTE,ug/l
+ChemischeStof,C1yClprfs,methylchloorpyrifos,CONCTTE,ug/l
+ChemischeStof,C1yOxdmtn,methyloxydemeton,CONCTTE,ug/l
+ChemischeStof,C1yazfs,methylazinfos,CONCTTE,ug/l
+ChemischeStof,C1ydesFyClid,methyl-desfenylchloridazon,CONCTTE,ug/l
+ChemischeStof,C1ymsfrn,methyl-metsulfuron,CONCTTE,ug/l
+ChemischeStof,C1ymtclt,methylmethacrylaat,CONCTTE,ug/l
+ChemischeStof,C1yprmfs,methylpirimifos,CONCTTE,ug/l
+ChemischeStof,C1yprton,methylparathion,CONCTTE,ug/l
+ChemischeStof,C1yttC4yEtr,methyl-tertiair-butylether,CONCTTE,ug/l
+ChemischeStof,C2oxC2yactt,ethoxyethylacetaat,CONCTTE,mg/l
+ChemischeStof,C2oxsfrn,ethoxysulfuron,CONCTTE,ug/l
+ChemischeStof,C2yBen,ethylbenzeen,CONCTTE,ug/l
+ChemischeStof,C2yBrfs,ethylbromofos,CONCTTE,ug/l
+ChemischeStof,C2yClprfs,ethylchloorpyrifos,CONCTTE,ug/l
+ChemischeStof,C2yazfs,ethylazinfos,CONCTTE,ug/l
+ChemischeStof,C2yetourum,ethyleenthioureum,CONCTTE,ug/l
+ChemischeStof,C2yprmfs,ethylpirimifos,CONCTTE,ug/l
+ChemischeStof,C2yprton,ethylparathion,CONCTTE,ug/l
+ChemischeStof,C4yBen,butylbenzeen,CONCTTE,ug/l
+ChemischeStof,C4yBensfAd,butylbenzeensulfonamide,CONCTTE,ug/l
+ChemischeStof,C9yFol,nonylfenol,CONCTTE,ug/l
+ChemischeStof,CHLFa,chlorofyl-a,CONCTTE,ug/l
+ChemischeStof,CHLFb,chlorofyl-b,CONCTTE,ug/l
+ChemischeStof,CN,cyanide,CONCTTE,ug/l
+ChemischeStof,CNazne,cyanazine,CONCTTE,ug/l
+ChemischeStof,CO3,carbonaat,CONCTTE,mg/l
+ChemischeStof,CO3,carbonaat,CONCTTE,mmol/l
+ChemischeStof,CZV,Chemisch zuurstofverbruik,CONCTTE,mg/l
+ChemischeStof,Ca,calcium,CONCTTE,mg/l
+ChemischeStof,Ca,calcium,CONCTTE,mmol/l
+ChemischeStof,Ca,calcium,CONCTTE,ug/l
+ChemischeStof,CaCO3,calciumcarbonaat,CONCTTE,mg/l
+ChemischeStof,Cd,cadmium,CONCTTE,ug/l
+ChemischeStof,Ce144,cerium 144,ACTVTCCTTE,mBq/l
+ChemischeStof,Chr,chryseen,CONCTTE,ug/l
+ChemischeStof,Cl,chloride,CONCTTE,mg/l
+ChemischeStof,ClBen,chloorbenzeen,CONCTTE,ug/l
+ChemischeStof,ClC2e,chlooretheen (vinylchloride),CONCTTE,ug/l
+ChemischeStof,ClOxnl,chlooroxynil,CONCTTE,ug/l
+ChemischeStof,Clafncl,chlooramfenicol,CONCTTE,ug/l
+ChemischeStof,Clbmrn,chloorbromuron,CONCTTE,ug/l
+ChemischeStof,Clfsn,chloorfenson,CONCTTE,ug/l
+ChemischeStof,Clfvfs,chloorfenvinfos,CONCTTE,ug/l
+ChemischeStof,Clidzn,chloridazon,CONCTTE,ug/l
+ChemischeStof,Clmfs,chloormefos,CONCTTE,ug/l
+ChemischeStof,ClmqCl,chloormequatchloride,CONCTTE,ug/l
+ChemischeStof,Cloxrn,chlooroxuron,CONCTTE,ug/l
+ChemischeStof,Clpfm,chloorprofam,CONCTTE,ug/l
+ChemischeStof,Clsfrn,chloorsulfuron,CONCTTE,ug/l
+ChemischeStof,Cltlnl,chloorthalonil,CONCTTE,ug/l
+ChemischeStof,Cltlrn,chloortoluron,CONCTTE,ug/l
+ChemischeStof,Co,kobalt,CONCTTE,ug/l
+ChemischeStof,Co58,kobalt 58,ACTVTCCTTE,mBq/l
+ChemischeStof,Co60,kobalt 60,ACTVTCCTTE,mBq/l
+ChemischeStof,Corg,koolstof organisch,CONCTTE,mg/l
+ChemischeStof,Cr,chroom,CONCTTE,ug/l
+ChemischeStof,Cs,cesium,CONCTTE,ug/l
+ChemischeStof,Cs134,cesium 134,ACTVTCCTTE,mBq/l
+ChemischeStof,Cs137,cesium 137,ACTVTCCTTE,mBq/l
+ChemischeStof,Cu,koper,CONCTTE,ug/l
+ChemischeStof,DBahAnt,"dibenzo(a,h)antraceen",CONCTTE,ug/l
+ChemischeStof,DBrC1a,dibroommethaan,CONCTTE,ug/l
+ChemischeStof,DBrClC1a,dibroomchloormethaan,CONCTTE,ug/l
+ChemischeStof,DC1oxC1a,dimethoxymethaan,CONCTTE,ug/l
+ChemischeStof,DC1yDS,dimethyldisulfide,CONCTTE,ug/l
+ChemischeStof,DC1ysAd,dimethylsulfamide,CONCTTE,ug/l
+ChemischeStof,DC4ySn,dibutyltin (kation),CONCTTE,ug/l
+ChemischeStof,DC8yFt,dioctylftalaat,CONCTTE,ug/l
+ChemischeStof,DClBrC1a,dichloorbroommethaan,CONCTTE,ug/l
+ChemischeStof,DClC1a,dichloormethaan,CONCTTE,ug/l
+ChemischeStof,DClvs,dichloorvos,CONCTTE,ug/l
+ChemischeStof,DEET,diethyltoluamide,CONCTTE,ug/l
+ChemischeStof,DEHP,bis(2-ethylhexyl)ftalaat (DEHP),CONCTTE,ug/l
+ChemischeStof,DFySn,difenyltin (kation),CONCTTE,ng/l
+ChemischeStof,DFySn,difenyltin (kation),CONCTTE,ug/l
+ChemischeStof,DMST,4-dimethylaminosulfotoluidide,CONCTTE,ug/l
+ChemischeStof,DNOC,"4,6-dinitro-o-cresol",CONCTTE,ug/l
+ChemischeStof,DONA,trifluor-3-(hexafluor-3-(trifluormethoxy)propoxy)propaanzuur,CONCTTE,ug/l
+ChemischeStof,DTPA,di-ethyleentriaminepentaazijnzuur (DTPA),CONCTTE,ug/l
+ChemischeStof,Daznn,diazinon,CONCTTE,ug/l
+ChemischeStof,Dbzfrn,dibenzofuran,CONCTTE,ug/l
+ChemischeStof,Dcba,dicamba,CONCTTE,ug/l
+ChemischeStof,Dcbnl,dichlobenil,CONCTTE,ug/l
+ChemischeStof,DccC6ySn,dicyclohexyltin (kation),CONCTTE,ug/l
+ChemischeStof,DccPeDen,dicyclopentadieen,CONCTTE,ug/l
+ChemischeStof,Dcfande,dichlofluanide,CONCTTE,ug/l
+ChemischeStof,Dcfl,dicofol,CONCTTE,ug/l
+ChemischeStof,Dcfton,dichlofenthion,CONCTTE,ug/l
+ChemischeStof,Dclofnc,diclofenac,CONCTTE,ug/l
+ChemischeStof,Dcloxclne,dicloxacilline,CONCTTE,ug/l
+ChemischeStof,Dctfs,dicrotofos,CONCTTE,ug/l
+ChemischeStof,Detfcb,diethofencarb,CONCTTE,ug/l
+ChemischeStof,Dfbzrn,diflubenzuron,CONCTTE,ug/l
+ChemischeStof,Dffncn,diflufenican,CONCTTE,ug/l
+ChemischeStof,Dfncnzl,difenoconazool,CONCTTE,ug/l
+ChemischeStof,Dfnxrn,difenoxuron,CONCTTE,ug/l
+ChemischeStof,DiC3yEtr,diisopropylether,CONCTTE,ug/l
+ChemischeStof,DmTdzl,dimetridazol,CONCTTE,ug/l
+ChemischeStof,DmtAd,dimethenamide,CONCTTE,ug/l
+ChemischeStof,DmtCl,dimethachloor,CONCTTE,ug/l
+ChemischeStof,Dmtat,dimethoaat,CONCTTE,ug/l
+ChemischeStof,Dmtmf,dimethomorf,CONCTTE,ug/l
+ChemischeStof,DmtnmdC2asfz,dimethenamid ethaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,DmtnmdP,dimethenamid-P,CONCTTE,ug/l
+ChemischeStof,Dnsb,dinoseb,CONCTTE,ug/l
+ChemischeStof,Dntb,dinoterb,CONCTTE,ug/l
+ChemischeStof,Dpyrdml,dipyridamol,CONCTTE,ug/l
+ChemischeStof,DqBr,diquatdibromide,CONCTTE,ug/l
+ChemischeStof,Dqt,diquat,CONCTTE,ug/l
+ChemischeStof,Dsftn,disulfoton,CONCTTE,ug/l
+ChemischeStof,Dtann,dithianon,CONCTTE,ug/l
+ChemischeStof,Durn,diuron,CONCTTE,ug/l
+ChemischeStof,EDTA,ethyleendiaminetetraethaanzuur (EDTA),CONCTTE,ug/l
+ChemischeStof,EPTC,ethyldipropylthiocarbamaat,CONCTTE,ug/l
+ChemischeStof,EtFOSA,N-ethyl perfluoroctaansulfonamide,CONCTTE,ug/l
+ChemischeStof,EtFOSAA,perfluoroctaansulfonylamide(N-ethyl)azijnzuur,CONCTTE,ng/l
+ChemischeStof,EtFOSAA,perfluoroctaansulfonylamide(N-ethyl)azijnzuur,CONCTTE,ug/l
+ChemischeStof,F,fluoride,CONCTTE,mg/l
+ChemischeStof,FEOa,Feofytine a,CONCTTE,ug/l
+ChemischeStof,FEOb,Feofytine b,CONCTTE,ug/l
+ChemischeStof,FRD-903,"2,3,3,3-tetrafluor-2-(heptafluorpropoxy)propionzuur",CONCTTE,ng/l
+ChemischeStof,FRD-903,"2,3,3,3-tetrafluor-2-(heptafluorpropoxy)propionzuur",CONCTTE,ug/l
+ChemischeStof,Fe,ijzer,CONCTTE,mg/l
+ChemischeStof,Fe,ijzer,CONCTTE,ug/l
+ChemischeStof,Fen,fenantreen,CONCTTE,ug/l
+ChemischeStof,Fle,fluoreen,CONCTTE,ug/l
+ChemischeStof,Flu,fluorantheen,CONCTTE,ug/l
+ChemischeStof,H-PFC10asfzr,2-(perfluoroctyl)ethaan-1-sulfonzuur (8:2 FTS),CONCTTE,ng/l
+ChemischeStof,H-PFC10asfzr,2-(perfluoroctyl)ethaan-1-sulfonzuur (8:2 FTS),CONCTTE,ug/l
+ChemischeStof,H-PFC12asfzr,"1H,1H,2H,2H-perfluordodecaansulfonzuur (10:2 FTS)",CONCTTE,ug/l
+ChemischeStof,H-PFC6asfzr,2-(perfluorbutyl)ethaan-1-sulfonzuur (4:2 FTS),CONCTTE,ng/l
+ChemischeStof,H-PFC6asfzr,2-(perfluorbutyl)ethaan-1-sulfonzuur (4:2 FTS),CONCTTE,ug/l
+ChemischeStof,H-PFUdA,"2H,2H,3H,3H-perfluorundecaanzuur",CONCTTE,ug/l
+ChemischeStof,H3,tritium,ACTVTCCTTE,mBq/l
+ChemischeStof,HCB,hexachloorbenzeen,CONCTTE,ug/l
+ChemischeStof,HCO3,waterstofcarbonaat,CONCTTE,mg/l
+ChemischeStof,HCO3,waterstofcarbonaat,CONCTTE,mmol/l
+ChemischeStof,HCO3,waterstofcarbonaat,MOLRCCTTE,mmol/l
+ChemischeStof,HCltazde,hydrochloorthiazide,CONCTTE,ug/l
+ChemischeStof,HHCB,hexahydrohexamethylcyclopentabenzopyran (HHCB),CONCTTE,ug/l
+ChemischeStof,HPFHpA,7H-perfluorheptaanzuur,CONCTTE,ug/l
+ChemischeStof,HTI,"4-hydroxy-2,5,6-trichloorisoftalonitril",CONCTTE,ug/l
+ChemischeStof,Hg,kwik,CONCTTE,ug/l
+ChemischeStof,Hg203,kwik 203,ACTVTCCTTE,mBq/l
+ChemischeStof,HpCl,heptachloor,CONCTTE,ug/l
+ChemischeStof,HxClC2a,hexachloorethaan,CONCTTE,ug/l
+ChemischeStof,HxClbtDen,hexachloorbutadieen,CONCTTE,ug/l
+ChemischeStof,Hxznn,hexazinon,CONCTTE,ug/l
+ChemischeStof,I131,jodium 131,ACTVTCCTTE,mBq/l
+ChemischeStof,In111,indium 111,ACTVTCCTTE,mBq/l
+ChemischeStof,InP,"indeno(1,2,3-cd)pyreen",CONCTTE,ug/l
+ChemischeStof,IppnC4ycbmt,joodpropynylbutylcarbamaat,CONCTTE,ug/l
+ChemischeStof,IsfrnC1y,jodosulfuron-methyl,CONCTTE,ug/l
+ChemischeStof,IsfrnC1yNa,jodosulfuron-methyl-natrium,CONCTTE,ug/l
+ChemischeStof,K,kalium,CONCTTE,mg/l
+ChemischeStof,K40,kalium 40,ACTVTCCTTE,mBq/l
+ChemischeStof,L_PFBS,perfluorbutaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,L_PFBS,perfluorbutaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,L_PFDS,perfluor-1-decaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,L_PFDS,perfluor-1-decaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,L_PFHpS,perfluor-1-heptaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,L_PFHpS,perfluor-1-heptaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,L_PFHxS,perfluorhexaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,L_PFHxS,perfluorhexaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,La,lanthaan,CONCTTE,ug/l
+ChemischeStof,Li,lithium,CONCTTE,ug/l
+ChemischeStof,Lu177,lutetium 177,ACTVTCCTTE,mBq/l
+ChemischeStof,MCPA,2-methyl-4-chloorfenoxyazijnzuur,CONCTTE,ug/l
+ChemischeStof,MCPB,2-methyl-4-chloorfenoxyboterzuur,CONCTTE,ug/l
+ChemischeStof,MCPP,mecoprop,CONCTTE,ug/l
+ChemischeStof,Mctfs,monocrotofos,CONCTTE,ug/l
+ChemischeStof,MeFBSAA,perfluorbutaansulfonylamide(N-methyl)azijnzuur,CONCTTE,ug/l
+ChemischeStof,MeFOSA,N-methyl perfluoroctaansulfonamide,CONCTTE,ug/l
+ChemischeStof,Mg,magnesium,CONCTTE,mg/l
+ChemischeStof,Mg,magnesium,CONCTTE,mmol/l
+ChemischeStof,Mg,magnesium,CONCTTE,ug/l
+ChemischeStof,Mlnrn,monolinuron,CONCTTE,ug/l
+ChemischeStof,Mn,mangaan,CONCTTE,ug/l
+ChemischeStof,Mn54,mangaan 54,ACTVTCCTTE,mBq/l
+ChemischeStof,Mo,molybdeen,CONCTTE,ug/l
+ChemischeStof,Mo99,molybdeen 99,ACTVTCCTTE,mBq/l
+ChemischeStof,N-MeFOSAA,N-methylperfluoroctaan sulfonamidoazijnzuur,CONCTTE,ng/l
+ChemischeStof,N-MeFOSAA,N-methylperfluoroctaan sulfonamidoazijnzuur,CONCTTE,ug/l
+ChemischeStof,NC1yPFC4asfA,N-methylperfluorbutaansulfonamide,CONCTTE,ug/l
+ChemischeStof,NH3,ammoniak,CONCTTE,mg/l
+ChemischeStof,NH4,ammonium,CONCTTE,mg/l
+ChemischeStof,NKj,stikstof Kjeldahl,CONCTTE,mg/l
+ChemischeStof,NO2,nitriet,CONCTTE,mg/l
+ChemischeStof,NO3,nitraat,CONCTTE,mg/l
+ChemischeStof,NPEO1,nonylfenolmonoethoxylaat,CONCTTE,ug/l
+ChemischeStof,NPEO2,nonylfenoldiethoxylaat,CONCTTE,ug/l
+ChemischeStof,NTA,nitrilotriazijnzuur (NTA),CONCTTE,ug/l
+ChemischeStof,Na,natrium,CONCTTE,mg/l
+ChemischeStof,Na22,natrium 22,ACTVTCCTTE,mBq/l
+ChemischeStof,Naf,naftaleen,CONCTTE,ug/l
+ChemischeStof,Nanorg,stikstof anorganisch,CONCTTE,mg/l
+ChemischeStof,Ni,nikkel,CONCTTE,ug/l
+ChemischeStof,Norg,stikstof organisch,CONCTTE,mg/l
+ChemischeStof,Ntot,stikstof totaal,CONCTTE,mg/l
+ChemischeStof,O2,zuurstof,CONCTTE,mg/l
+ChemischeStof,O2,zuurstof,MASSFTE,%
+ChemischeStof,O2,zuurstof,VERZDGGD,%
+ChemischeStof,OaDazn,oxadiazon,CONCTTE,ug/l
+ChemischeStof,OaDxl,oxadixyl,CONCTTE,ug/l
+ChemischeStof,Oaclne,oxacilline,CONCTTE,ug/l
+ChemischeStof,Oaml,oxamyl,CONCTTE,ug/l
+ChemischeStof,Oasfrn,oxasulfuron,CONCTTE,ug/l
+ChemischeStof,Oatapplne,oxathiapiproline,CONCTTE,ug/l
+ChemischeStof,OcC1yT4slxn,octamethyltetrasiloxaan,CONCTTE,ug/l
+ChemischeStof,OxT4ccne,oxytetracycline,CONCTTE,ug/l
+ChemischeStof,PBDE100,"2,2',4,4',6-pentabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE138,"2,2',3,4,4',5'-hexabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE153,"2,2',4,4',5,5'-hexabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE154,"2,2',4,4',5,6'-hexabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE183,"2,2',3,4,4',5',6-heptabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE209,"2,2',3,3',4,4',5,5',6,6'-decabroomdiphenylether",CONCTTE,ug/l
+ChemischeStof,PBDE28,"2,4,4'-tribroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE47,"2,2',4,4'-tetrabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE49,"2,2',4,5'-tetrabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE66,"2,3',4,4'-tetrabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE71,"2,3',4',6-tetrabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE75,"2,4,4',6-tetrabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE85,"2,2',3,4,4'-pentabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PBDE99,"2,2',4,4',5-pentabroomdifenylether",CONCTTE,ug/l
+ChemischeStof,PCB101,"2,2',4,5,5'-pentachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB118,"2,3',4,4',5-pentachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB123,"2,3',4,4',5'-pentachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB138,"2,2',3,4,4',5'-hexachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB153,"2,2',4,4',5,5'-hexachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB180,"2,2',3,4,4',5,5'-heptachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB28,"2,4,4'-trichloorbifenyl",CONCTTE,pg/l
+ChemischeStof,PCB28,"2,4,4'-trichloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PCB52,"2,2',5,5'-tetrachloorbifenyl",CONCTTE,ug/l
+ChemischeStof,PF37DC1yOA,"perfluor-3,7-dimethyloctaanzuur",CONCTTE,ug/l
+ChemischeStof,PFBA,perfluorbutaanzuur,CONCTTE,ng/l
+ChemischeStof,PFBA,perfluorbutaanzuur,CONCTTE,ug/l
+ChemischeStof,PFC16azr,perfluorhexadecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFC18azr,perfluoroctadecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFC4asfAd,perfluorbutaansulfonamide,CONCTTE,ug/l
+ChemischeStof,PFC5asfzr,perfluor-1-pentaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,PFC5asfzr,perfluor-1-pentaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,PFC9asfzr,perfluornonaan-1-sulfonzuur,CONCTTE,ng/l
+ChemischeStof,PFC9asfzr,perfluornonaan-1-sulfonzuur,CONCTTE,ug/l
+ChemischeStof,PFDA,perfluordecaanzuur,CONCTTE,ng/l
+ChemischeStof,PFDA,perfluordecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFDoA,perfluordodecaanzuur,CONCTTE,ng/l
+ChemischeStof,PFDoA,perfluordodecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFHpA,perfluorheptaanzuur,CONCTTE,ng/l
+ChemischeStof,PFHpA,perfluorheptaanzuur,CONCTTE,ug/l
+ChemischeStof,PFHxA,perfluorhexaanzuur,CONCTTE,ng/l
+ChemischeStof,PFHxA,perfluorhexaanzuur,CONCTTE,ug/l
+ChemischeStof,PFNA,perfluornonaanzuur,CONCTTE,ng/l
+ChemischeStof,PFNA,perfluornonaanzuur,CONCTTE,ug/l
+ChemischeStof,PFOA,perfluoroctaanzuur,CONCTTE,ng/l
+ChemischeStof,PFOA,perfluoroctaanzuur,CONCTTE,ug/l
+ChemischeStof,PFOS,perfluoroctaansulfonzuur,CONCTTE,ng/l
+ChemischeStof,PFOS,perfluoroctaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,PFOSA,perfluoroctaansulfonamide,CONCTTE,ng/l
+ChemischeStof,PFOSA,perfluoroctaansulfonamide,CONCTTE,ug/l
+ChemischeStof,PFOS_K,"perfluoroctaansulfonaat, kaliumzout",CONCTTE,ng/l
+ChemischeStof,PFPA,perfluorpentaanzuur,CONCTTE,ng/l
+ChemischeStof,PFPA,perfluorpentaanzuur,CONCTTE,ug/l
+ChemischeStof,PFTDA,perfluortridecaanzuur,CONCTTE,ng/l
+ChemischeStof,PFTDA,perfluortridecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFTeDA,perfluortetradecaanzuur,CONCTTE,ng/l
+ChemischeStof,PFTeDA,perfluortetradecaanzuur,CONCTTE,ug/l
+ChemischeStof,PFUdA,perfluorundecaanzuur,CONCTTE,ng/l
+ChemischeStof,PFUdA,perfluorundecaanzuur,CONCTTE,ug/l
+ChemischeStof,PO4,fosfaat,CONCTTE,mg/l
+ChemischeStof,Pb,lood,CONCTTE,ug/l
+ChemischeStof,PeClBen,pentachloorbenzeen,CONCTTE,ug/l
+ChemischeStof,PeClFol,pentachloorfenol,CONCTTE,ug/l
+ChemischeStof,PeClNO2Ben,pentachloornitrobenzeen (quintozeen),CONCTTE,ug/l
+ChemischeStof,Po210,polonium 210,ACTVTCCTTE,mBq/l
+ChemischeStof,Ptot,fosfor totaal,CONCTTE,mg/l
+ChemischeStof,Pyr,pyreen,CONCTTE,ug/l
+ChemischeStof,RESTBTA,Rest Beta,ACTVTCCTTE,mBq/l
+ChemischeStof,Ra226,radium 226,ACTVTCCTTE,mBq/l
+ChemischeStof,Ra228,radium 228,ACTVTCCTTE,mBq/l
+ChemischeStof,Rb,rubidium,CONCTTE,ug/l
+ChemischeStof,Ru103,ruthenium 103,ACTVTCCTTE,mBq/l
+ChemischeStof,Ru106,ruthenium 106,ACTVTCCTTE,mBq/l
+ChemischeStof,S,sulfide,CONCTTE,mg/l
+ChemischeStof,SO4,sulfaat,CONCTTE,mg/l
+ChemischeStof,Sb,antimoon,CONCTTE,ug/l
+ChemischeStof,Sb122,antimoon 122,ACTVTCCTTE,mBq/l
+ChemischeStof,Sb124,antimoon 124,ACTVTCCTTE,mBq/l
+ChemischeStof,Sb125,antimoon 125,ACTVTCCTTE,mBq/l
+ChemischeStof,Se,seleen,CONCTTE,ug/l
+ChemischeStof,Si,silicium,CONCTTE,mg/l
+ChemischeStof,SiO2,siliciumdioxide,CONCTTE,mg/l
+ChemischeStof,SmtlCl,S-metolachloor,CONCTTE,ug/l
+ChemischeStof,Sn,tin,CONCTTE,ug/l
+ChemischeStof,Sr,strontium,CONCTTE,ug/l
+ChemischeStof,Sr90,strontium 90,ACTVTCCTTE,mBq/l
+ChemischeStof,Stot,zwavel totaal,CONCTTE,mg/l
+ChemischeStof,T2ClC2yPO4,tri(2-chloorethyl)fosfaat,CONCTTE,ug/l
+ChemischeStof,T4C4ySn,tetrabutyltin,CONCTTE,ug/l
+ChemischeStof,T4ClC1a,tetrachloormethaan (tetra),CONCTTE,ug/l
+ChemischeStof,T4ClC2a,tetrachloorethaan,CONCTTE,ug/l
+ChemischeStof,T4ClC2e,tetrachlooretheen (per),CONCTTE,ug/l
+ChemischeStof,T4Clvfs,tetrachloorvinfos (mixed isomeren),CONCTTE,ug/l
+ChemischeStof,T4Dfn,tetradifon,CONCTTE,ug/l
+ChemischeStof,T4Hflmde,tetrahydroftaalimide,CONCTTE,ug/l
+ChemischeStof,T4mtn,tetramethrin,CONCTTE,ug/l
+ChemischeStof,T4sl,tetrasul,CONCTTE,ug/l
+ChemischeStof,TBrC1a,tribroommethaan,CONCTTE,ug/l
+ChemischeStof,TC2yPO4,triethylfosfaat,CONCTTE,ug/l
+ChemischeStof,TC2ycitt,triethylcitraat,CONCTTE,ug/l
+ChemischeStof,TC4yPO4,tributylfosfaat,CONCTTE,ug/l
+ChemischeStof,TC4ySn,tributyltin (kation),CONCTTE,ug/l
+ChemischeStof,TClC1a,trichloormethaan (chloroform),CONCTTE,ug/l
+ChemischeStof,TClC2e,trichlooretheen (tri),CONCTTE,ug/l
+ChemischeStof,TClC3yPO4,tris(1-chloor-2-propyl)fosfaat,CONCTTE,ug/l
+ChemischeStof,TClfn,trichloorfon,CONCTTE,ug/l
+ChemischeStof,TEGDME,tetraethyleenglycoldimethylether,CONCTTE,ug/l
+ChemischeStof,TFyPO4,trifenylfosfaat,CONCTTE,ug/l
+ChemischeStof,TFySn,trifenyltin (kation),CONCTTE,ug/l
+ChemischeStof,TFyffnS,trifenylfosfinesulfide,CONCTTE,ug/l
+ChemischeStof,TOTAFA,Totaal Alfa,ACTVTCCTTE,mBq/l
+ChemischeStof,TOTBTA,Totaal Beta,ACTVTCCTTE,mBq/l
+ChemischeStof,TPPO,trifenylfosfineoxide,CONCTTE,ug/l
+ChemischeStof,Tadmfn,triadimefon,CONCTTE,ug/l
+ChemischeStof,Tadmnl,triadimenol,CONCTTE,ug/l
+ChemischeStof,Talt,triallaat,CONCTTE,ug/l
+ChemischeStof,Tazfs,triazofos,CONCTTE,ug/l
+ChemischeStof,Tazmt,triazamaat,CONCTTE,ug/l
+ChemischeStof,TbnrC1y,tribenuronmethyl,CONCTTE,ug/l
+ChemischeStof,Tc99,technetium 99,ACTVTCCTTE,mBq/l
+ChemischeStof,Tc99m,technetium 99m (metastabiel),ACTVTCCTTE,mBq/l
+ChemischeStof,TccC6ySn,tricyclohexyltin (kation),CONCTTE,ug/l
+ChemischeStof,Tccbn,triclocarban,CONCTTE,ug/l
+ChemischeStof,Tcpr,triclopyr,CONCTTE,ug/l
+ChemischeStof,Tcsn,triclosan,CONCTTE,ug/l
+ChemischeStof,Te,tellurium,CONCTTE,ug/l
+ChemischeStof,Tfmzl,triflumizool,CONCTTE,ug/l
+ChemischeStof,Tfrlne,trifluraline,CONCTTE,ug/l
+ChemischeStof,Tfrne,triforine,CONCTTE,ug/l
+ChemischeStof,TfsfrnC1y,triflusulfuron-methyl,CONCTTE,ug/l
+ChemischeStof,Tfxsbn,trifloxystrobin,CONCTTE,ug/l
+ChemischeStof,Ti,titaan,CONCTTE,ug/l
+ChemischeStof,TiC4yPO4,triisobutylfosfaat,CONCTTE,ug/l
+ChemischeStof,Tl,thallium,CONCTTE,ug/l
+ChemischeStof,Tl201,thallium 201,ACTVTCCTTE,mBq/l
+ChemischeStof,Tmtpm,trimethoprim,CONCTTE,ug/l
+ChemischeStof,TnxpcC2y,trinexapac-ethyl,CONCTTE,ug/l
+ChemischeStof,Tol,tolueen,CONCTTE,ug/l
+ChemischeStof,U,uranium,CONCTTE,ug/l
+ChemischeStof,V,vanadium,CONCTTE,ug/l
+ChemischeStof,W,wolfraam,CONCTTE,ug/l
+ChemischeStof,Zn,zink,CONCTTE,ug/l
+ChemischeStof,Zn65,zink 65,ACTVTCCTTE,mBq/l
+ChemischeStof,aHCH,alfa-hexachloorcyclohexaan,CONCTTE,ug/l
+ChemischeStof,abmtne,abamectine,CONCTTE,ug/l
+ChemischeStof,acdne,acridine,CONCTTE,ug/l
+ChemischeStof,acnfn,aclonifen,CONCTTE,ug/l
+ChemischeStof,acqncl,acequinocyl,CONCTTE,ug/l
+ChemischeStof,actmpd,acetamiprid,CONCTTE,ug/l
+ChemischeStof,actsfmtozl,acetylsulfamethoxazol,CONCTTE,ug/l
+ChemischeStof,aedsfn,alfa-endosulfan,CONCTTE,ug/l
+ChemischeStof,alCl,alachloor,CONCTTE,ug/l
+ChemischeStof,alDcSO,aldicarbsulfoxide,CONCTTE,ug/l
+ChemischeStof,alDcb,aldicarb,CONCTTE,ug/l
+ChemischeStof,alDcsfn,aldicarbsulfon,CONCTTE,ug/l
+ChemischeStof,aldn,aldrin,CONCTTE,ug/l
+ChemischeStof,alltn,allethrin,CONCTTE,ug/l
+ChemischeStof,amdTzinzr,amidotrizoïnezuur,CONCTTE,ug/l
+ChemischeStof,amdsfrn,amidosulfuron,CONCTTE,ug/l
+ChemischeStof,amodne,amiodarone,CONCTTE,ug/l
+ChemischeStof,amsbm,amisulbrom,CONCTTE,ug/l
+ChemischeStof,amspde,amisulpride,CONCTTE,ng/l
+ChemischeStof,amspde,amisulpride,CONCTTE,ug/l
+ChemischeStof,amtl,amitrol,CONCTTE,ug/l
+ChemischeStof,amtn,ametryn,CONCTTE,ug/l
+ChemischeStof,amttdn,ametoctradin,CONCTTE,ug/l
+ChemischeStof,antcnn,antrachinon,CONCTTE,ug/l
+ChemischeStof,aslm,asulam,CONCTTE,ug/l
+ChemischeStof,asprne,aspirine,CONCTTE,ug/l
+ChemischeStof,atnll,atenolol,CONCTTE,ug/l
+ChemischeStof,atvttne,atorvastatine,CONCTTE,ug/l
+ChemischeStof,atzne,atrazine,CONCTTE,ug/l
+ChemischeStof,azacnzl,azaconazool,CONCTTE,ug/l
+ChemischeStof,azdrtn,azadirachtin,CONCTTE,ug/l
+ChemischeStof,azmtfs,azamethifos,CONCTTE,ug/l
+ChemischeStof,azoxsbn,azoxystrobin,CONCTTE,ug/l
+ChemischeStof,azsfrn,azimsulfuron,CONCTTE,ug/l
+ChemischeStof,aztmcne,azitromycine,CONCTTE,ng/l
+ChemischeStof,aztmcne,azitromycine,CONCTTE,ug/l
+ChemischeStof,bHCH,beta-hexachloorcyclohexaan,CONCTTE,ug/l
+ChemischeStof,bedsfn,beta-endosulfan,CONCTTE,ug/l
+ChemischeStof,benfn,benefin,CONCTTE,ug/l
+ChemischeStof,benlxlM,benalaxyl-M,CONCTTE,ug/l
+ChemischeStof,bentavlcbiC3,benthiavalicarb-isopropyl,CONCTTE,ug/l
+ChemischeStof,bentzn,bentazon,CONCTTE,ug/l
+ChemischeStof,benzCl,benzylchloride,CONCTTE,ug/l
+ChemischeStof,benzadnne,benzyladenine,CONCTTE,ug/l
+ChemischeStof,benzcine,benzocaine,CONCTTE,ug/l
+ChemischeStof,benzvdfpr,benzovindiflupyr,CONCTTE,ug/l
+ChemischeStof,bezafbt,bezafibraat,CONCTTE,ug/l
+ChemischeStof,bfnx,bifenox,CONCTTE,ug/l
+ChemischeStof,biFy,bifenyl,CONCTTE,ug/l
+ChemischeStof,bifnzt,bifenazaat,CONCTTE,ug/l
+ChemischeStof,biftn,bifenthrin,CONCTTE,ug/l
+ChemischeStof,bis2C1oxC2yE,bis(2-methoxyethyl)ether,CONCTTE,ug/l
+ChemischeStof,bisFolA,bisfenol-A,CONCTTE,ug/l
+ChemischeStof,bisPFC10yPO4,bisperfluordecylwaterstoffosfaat (8:2 diPAP),CONCTTE,ug/l
+ChemischeStof,bispll,bisoprolol,CONCTTE,ug/l
+ChemischeStof,bittnl,bitertanol,CONCTTE,ug/l
+ChemischeStof,bixfn,bixafen,CONCTTE,ug/l
+ChemischeStof,boscld,boscalid,CONCTTE,ug/l
+ChemischeStof,bromcl,bromacil,CONCTTE,ug/l
+ChemischeStof,bromxnbtrt,bromoxynil butyraat,CONCTTE,ug/l
+ChemischeStof,bupfzn,buprofezin,CONCTTE,ug/l
+ChemischeStof,buprmt,bupirimaat,CONCTTE,ug/l
+ChemischeStof,butCl,butachloor,CONCTTE,ug/l
+ChemischeStof,butcbOxm,butocarboxim,CONCTTE,ug/l
+ChemischeStof,butcbOxmSO,butocarboximsulfoxide,CONCTTE,ug/l
+ChemischeStof,c12DClC2e,"cis-1,2-dichlooretheen",CONCTTE,ug/l
+ChemischeStof,c13DClC3e,"cis-1,3-dichloorpropeen",CONCTTE,ug/l
+ChemischeStof,cCldn,cis-chloordaan,CONCTTE,ug/l
+ChemischeStof,cF16C10ezr,cis-hexadecafluor-2-deceenzuur,CONCTTE,ng/l
+ChemischeStof,cF16C10ezr,cis-hexadecafluor-2-deceenzuur,CONCTTE,ug/l
+ChemischeStof,cHCH,gamma-hexachloorcyclohexaan (lindaan),CONCTTE,ug/l
+ChemischeStof,cHpClepO,cis-heptachloorepoxide,CONCTTE,ug/l
+ChemischeStof,cT4Clvfs,cis-tetrachloorvinfos (Z-isomeer),CONCTTE,ug/l
+ChemischeStof,caffine,caffeine,CONCTTE,ug/l
+ChemischeStof,candstn,candesartan,CONCTTE,ng/l
+ChemischeStof,candstn,candesartan,CONCTTE,ug/l
+ChemischeStof,captabne,capectiabine,CONCTTE,ug/l
+ChemischeStof,captn,captan,CONCTTE,ug/l
+ChemischeStof,carbdx,carbadox,CONCTTE,ug/l
+ChemischeStof,carbdzm,carbendazim,CONCTTE,ug/l
+ChemischeStof,carbfrn,carbofuran,CONCTTE,ug/l
+ChemischeStof,carbmzpne,carbamazepine,CONCTTE,ug/l
+ChemischeStof,carbrl,carbaryl,CONCTTE,ug/l
+ChemischeStof,carbtAd,carbetamide,CONCTTE,ug/l
+ChemischeStof,carftznC2y,carfentrazon-ethyl,CONCTTE,ug/l
+ChemischeStof,cefrxm,cefuroxim,CONCTTE,ug/l
+ChemischeStof,chloftzn,chlofentezin,CONCTTE,ug/l
+ChemischeStof,chloratnlpl,chlorantraniliprole,CONCTTE,ug/l
+ChemischeStof,cindnC2y,cinidon-ethyl,CONCTTE,ug/l
+ChemischeStof,cipfxcne,ciprofloxacine,CONCTTE,ug/l
+ChemischeStof,citlpm,citalopram,CONCTTE,ng/l
+ChemischeStof,citlpm,citalopram,CONCTTE,ug/l
+ChemischeStof,clartmcne,claritromycine,CONCTTE,ug/l
+ChemischeStof,cletdm,clethodim,CONCTTE,ug/l
+ChemischeStof,clindmcne,clindamycine,CONCTTE,ug/l
+ChemischeStof,clmqat,chloormequat,CONCTTE,ug/l
+ChemischeStof,clodnfppgl,clodinafop-propargyl,CONCTTE,ug/l
+ChemischeStof,clofbnzr,clofibrinezuur,CONCTTE,ug/l
+ChemischeStof,clofbt,clofibraat,CONCTTE,ug/l
+ChemischeStof,clomzn,clomazon,CONCTTE,ug/l
+ChemischeStof,cloprld,clopyralid,CONCTTE,ug/l
+ChemischeStof,cloqtcmxl,cloquintoceet-mexyl,CONCTTE,ug/l
+ChemischeStof,clotandne,clothianidine,CONCTTE,ug/l
+ChemischeStof,clotmzl,clotrimazol,CONCTTE,ug/l
+ChemischeStof,cloxclne,cloxacilline,CONCTTE,ug/l
+ChemischeStof,clozpne,clozapine,CONCTTE,ug/l
+ChemischeStof,cltofs,chloorthiofos,CONCTTE,ug/l
+ChemischeStof,clxlnl,chloorxylenol,CONCTTE,ug/l
+ChemischeStof,cortsn,cortison,CONCTTE,ug/l
+ChemischeStof,cpyrfnx,cis-pyrifenox,CONCTTE,ug/l
+ChemischeStof,cumfs,cumafos,CONCTTE,ug/l
+ChemischeStof,cumn,cumeen,CONCTTE,ug/l
+ChemischeStof,cyatnlple,cyantraniliprole,CONCTTE,ug/l
+ChemischeStof,cyazfAd,cyazofamide,CONCTTE,ug/l
+ChemischeStof,cycC6a,cyclohexaan,CONCTTE,ug/l
+ChemischeStof,cycat,cycloaat,CONCTTE,ug/l
+ChemischeStof,cycffAd,cyclofosfamide,CONCTTE,ug/l
+ChemischeStof,cycxdm,cycloxydim,CONCTTE,ug/l
+ChemischeStof,cyffAd,cyflufenamide,CONCTTE,ug/l
+ChemischeStof,cyfmtfn,cyflumetofen,CONCTTE,ug/l
+ChemischeStof,cyftn,cyfluthrin,CONCTTE,ug/l
+ChemischeStof,cymOanl,cymoxanil,CONCTTE,ug/l
+ChemischeStof,cypcnzl,cyproconazool,CONCTTE,ug/l
+ChemischeStof,cypdnl,cyprodinil,CONCTTE,ug/l
+ChemischeStof,cypmtn,cypermethrin,CONCTTE,ug/l
+ChemischeStof,cyrmzne,cyromazine,CONCTTE,ug/l
+ChemischeStof,dHCH,delta-hexachloorcyclohexaan,CONCTTE,ug/l
+ChemischeStof,damnzde,daminozide,CONCTTE,ug/l
+ChemischeStof,dapsn,dapson,CONCTTE,ug/l
+ChemischeStof,demtSC1y,demeton-S-methyl,CONCTTE,ug/l
+ChemischeStof,demtSC1ysfn,demeton-S-methylsulfon,CONCTTE,ug/l
+ChemischeStof,desC2yatzne,desethylatrazine,CONCTTE,ug/l
+ChemischeStof,desC2ytC4yaz,desethylterbutylazine,CONCTTE,ug/l
+ChemischeStof,desFyClidzn,desfenylchloridazon,CONCTTE,ug/l
+ChemischeStof,desiC3yatzne,desisopropylatrazine,CONCTTE,ug/l
+ChemischeStof,desmdfm,desmedifam,CONCTTE,ug/l
+ChemischeStof,desmtn,desmetryn,CONCTTE,ug/l
+ChemischeStof,dexmtsn,dexamethason,CONCTTE,ug/l
+ChemischeStof,dieldn,dieldrin,CONCTTE,ug/l
+ChemischeStof,dmtn,deltamethrin,CONCTTE,ug/l
+ChemischeStof,dodmf,dodemorf,CONCTTE,ug/l
+ChemischeStof,dodne,dodine,CONCTTE,ug/l
+ChemischeStof,eTDazl,etridiazol,CONCTTE,ug/l
+ChemischeStof,emmtbzat,emamectin-benzoaat,CONCTTE,ug/l
+ChemischeStof,emmtn,emamectin,CONCTTE,ug/l
+ChemischeStof,endn,endrin,CONCTTE,ug/l
+ChemischeStof,endsfSO4,endosulfansulfaat,CONCTTE,ug/l
+ChemischeStof,endsfn,endosulfan (som alfa- en beta-isomeer),CONCTTE,ug/l
+ChemischeStof,epxcnzl,epoxiconazool,CONCTTE,ug/l
+ChemischeStof,ertmcne,erytromycine,CONCTTE,ug/l
+ChemischeStof,esfvlrt,esfenvaleraat,CONCTTE,ug/l
+ChemischeStof,etfmst,ethofumesaat,CONCTTE,ug/l
+ChemischeStof,etfn,ethefon,CONCTTE,ug/l
+ChemischeStof,etfpx,ethofenprox,CONCTTE,ug/l
+ChemischeStof,etfs,etrimfos,CONCTTE,ug/l
+ChemischeStof,etnetDol,ethinylestradiol,CONCTTE,ug/l
+ChemischeStof,etofcb,ethiofencarb,CONCTTE,ug/l
+ChemischeStof,etofcbSO,ethiofencarbsulfoxide,CONCTTE,ug/l
+ChemischeStof,etofcbsfn,ethiofencarbsulfon,CONCTTE,ug/l
+ChemischeStof,eton,ethion,CONCTTE,ug/l
+ChemischeStof,etpfs,ethoprofos,CONCTTE,ug/l
+ChemischeStof,etxzl,etoxazool,CONCTTE,ug/l
+ChemischeStof,feNO2ton,fenitrothion,CONCTTE,ug/l
+ChemischeStof,fenClfs,fenchloorfos,CONCTTE,ug/l
+ChemischeStof,fenOxcb,fenoxycarb,CONCTTE,ug/l
+ChemischeStof,fenamfSO,fenamifos-sulfoxide,CONCTTE,ug/l
+ChemischeStof,fenamfs,fenamifos,CONCTTE,ug/l
+ChemischeStof,fenarml,fenarimol,CONCTTE,ug/l
+ChemischeStof,fenbtSnO,fenbutatinoxide,CONCTTE,ug/l
+ChemischeStof,fenfbt,fenofibraat,CONCTTE,ug/l
+ChemischeStof,fenhxAd,fenhexamide,CONCTTE,ug/l
+ChemischeStof,fenmdfm,fenmedifam,CONCTTE,ug/l
+ChemischeStof,fenmdn,fenamidon,CONCTTE,ug/l
+ChemischeStof,fenpfn,fenoprofen,CONCTTE,ug/l
+ChemischeStof,fenppdn,fenpropidin,CONCTTE,ug/l
+ChemischeStof,fenppmf,fenpropimorf,CONCTTE,ug/l
+ChemischeStof,fenprAe,fenpyrazamine,CONCTTE,ug/l
+ChemischeStof,fenpratn,fenpropathrin,CONCTTE,ug/l
+ChemischeStof,fenrn,fenuron,CONCTTE,ug/l
+ChemischeStof,fentat,fenthoaat,CONCTTE,ug/l
+ChemischeStof,fentn,fenothrin,CONCTTE,ug/l
+ChemischeStof,fenton,fenthion,CONCTTE,ug/l
+ChemischeStof,fentrl,fenoterol,CONCTTE,ug/l
+ChemischeStof,fenvlrt,fenvaleraat,CONCTTE,ug/l
+ChemischeStof,fenxppPC2y,fenoxaprop-P-ethyl,CONCTTE,ug/l
+ChemischeStof,fenzn,fenazon (antipyrine),CONCTTE,ug/l
+ChemischeStof,fipnl,fipronil,CONCTTE,ug/l
+ChemischeStof,floncmd,flonicamid,CONCTTE,ug/l
+ChemischeStof,florfncl,florfenicol,CONCTTE,ug/l
+ChemischeStof,flrtmn,flurtamon,CONCTTE,ug/l
+ChemischeStof,fluOxpmtl,fluroxypyr-meptyl,CONCTTE,ug/l
+ChemischeStof,fluazfPC4y,fluazifop-P-butyl,CONCTTE,ug/l
+ChemischeStof,fluazfp,fluazifop,CONCTTE,ug/l
+ChemischeStof,fluazfpP,fluazifop-P,CONCTTE,ug/l
+ChemischeStof,fluaznm,fluazinam,CONCTTE,ug/l
+ChemischeStof,flubDad,flubendiamide,CONCTTE,ug/l
+ChemischeStof,fludoxnl,fludioxonil,CONCTTE,ug/l
+ChemischeStof,flufnct,flufenacet,CONCTTE,ug/l
+ChemischeStof,flumoxzn,flumioxazin,CONCTTE,ug/l
+ChemischeStof,fluopclde,fluopicolide,CONCTTE,ug/l
+ChemischeStof,fluoprm,fluopyram,CONCTTE,ug/l
+ChemischeStof,fluoxtne,fluoxetine,CONCTTE,ug/l
+ChemischeStof,fluprdfrn,flupyradifuron,CONCTTE,ug/l
+ChemischeStof,flurOxpr,fluroxypyr,CONCTTE,ug/l
+ChemischeStof,flurslm,florasulam,CONCTTE,ug/l
+ChemischeStof,flutlnl,flutolanil,CONCTTE,ug/l
+ChemischeStof,fluxprxd,fluxapyroxad,CONCTTE,ug/l
+ChemischeStof,folpt,folpet,CONCTTE,ug/l
+ChemischeStof,fonfs,fonofos,CONCTTE,ug/l
+ChemischeStof,forasfrn,foramsulfuron,CONCTTE,ug/l
+ChemischeStof,formton,formothion,CONCTTE,ug/l
+ChemischeStof,fort,foraat,CONCTTE,ug/l
+ChemischeStof,fosC2yAl,fosetyl-aluminium,CONCTTE,ug/l
+ChemischeStof,fosfmdn,fosfamidon,CONCTTE,ug/l
+ChemischeStof,fosln,fosalon,CONCTTE,ug/l
+ChemischeStof,fosmt,fosmet,CONCTTE,ug/l
+ChemischeStof,fostazt,fosthiazaat,CONCTTE,ug/l
+ChemischeStof,fostl,fosetyl,CONCTTE,ug/l
+ChemischeStof,ftalmde,ftalimide,CONCTTE,ug/l
+ChemischeStof,furlxl,furalaxyl,CONCTTE,ug/l
+ChemischeStof,furmccx,furmecyclox,CONCTTE,ug/l
+ChemischeStof,fursmde,furosemide,CONCTTE,ng/l
+ChemischeStof,fursmde,furosemide,CONCTTE,ug/l
+ChemischeStof,furtocb,furathiocarb,CONCTTE,ug/l
+ChemischeStof,furzldn,furazolidon,CONCTTE,ug/l
+ChemischeStof,gabptne,gabapentine,CONCTTE,ug/l
+ChemischeStof,gemfbzl,gemfibrozil,CONCTTE,ug/l
+ChemischeStof,glufsnt,glufosinaat,CONCTTE,ug/l
+ChemischeStof,glufsntNH4,glufosinaat-ammonium,CONCTTE,ug/l
+ChemischeStof,glyfst,glyfosaat,CONCTTE,ug/l
+ChemischeStof,halOxfC2oxC2,haloxyfop-ethoxyethyl,CONCTTE,ug/l
+ChemischeStof,halOxfPC1y,haloxyfop-P-methyl,CONCTTE,ug/l
+ChemischeStof,halOxfp,haloxyfop,CONCTTE,ug/l
+ChemischeStof,halaxfnC1y,halauxifen-methyl,CONCTTE,ug/l
+ChemischeStof,halon1011,broomchloormethaan,CONCTTE,ug/l
+ChemischeStof,heptnfs,heptenofos,CONCTTE,ug/l
+ChemischeStof,hextazx,hexythiazox,CONCTTE,ug/l
+ChemischeStof,hymxzl,hymexazool,CONCTTE,ug/l
+ChemischeStof,iC3yantnlAd,isopropylanthranilamide,CONCTTE,ug/l
+ChemischeStof,iClidzn,isochloridazon,CONCTTE,ug/l
+ChemischeStof,iOaftl,isoxaflutool,CONCTTE,ug/l
+ChemischeStof,iOxnl,ioxynil,CONCTTE,ug/l
+ChemischeStof,ibpfn,ibuprofen,CONCTTE,ug/l
+ChemischeStof,idn,isodrin,CONCTTE,ug/l
+ChemischeStof,iffAd,ifosfamide,CONCTTE,ug/l
+ChemischeStof,iffs,isofenfos,CONCTTE,ug/l
+ChemischeStof,imdcpd,imidacloprid,CONCTTE,ug/l
+ChemischeStof,imzll,imazalil,CONCTTE,ug/l
+ChemischeStof,imzmx,imazamox,CONCTTE,ug/l
+ChemischeStof,indmtcne,indometacine,CONCTTE,ug/l
+ChemischeStof,indxcb,indoxacarb (S-isomeer),CONCTTE,ug/l
+ChemischeStof,ipDon,iprodion,CONCTTE,ug/l
+ChemischeStof,iptrn,isoproturon,CONCTTE,ug/l
+ChemischeStof,irbstan,irbesartan,CONCTTE,ug/l
+ChemischeStof,irgrl,irgarol,CONCTTE,ug/l
+ChemischeStof,isprzm,isopyrazam,CONCTTE,ug/l
+ChemischeStof,isxbn,isoxaben,CONCTTE,ug/l
+ChemischeStof,ivmctne,ivermectine,CONCTTE,ug/l
+ChemischeStof,ixdfnC2y,isoxadifen-ethyl,CONCTTE,ug/l
+ChemischeStof,jodffs,jodfenfos,CONCTTE,ug/l
+ChemischeStof,johxl,johexol,CONCTTE,ug/l
+ChemischeStof,jompl,jomeprol,CONCTTE,ug/l
+ChemischeStof,jopmde,jopromide,CONCTTE,ug/l
+ChemischeStof,jopmdl,jopamidol,CONCTTE,ug/l
+ChemischeStof,jotlmnzr,jotalaminezuur,CONCTTE,ug/l
+ChemischeStof,joxtlmnzr,joxitalaminezuur,CONCTTE,ug/l
+ChemischeStof,ketpfn,ketoprofen,CONCTTE,ug/l
+ChemischeStof,kresOxmC1y,kresoxim-methyl,CONCTTE,ug/l
+ChemischeStof,lcyhltn,lambda-cyhalothrin,CONCTTE,ng/l
+ChemischeStof,lcyhltn,lambda-cyhalothrin,CONCTTE,ug/l
+ChemischeStof,lencl,lenacil,CONCTTE,ug/l
+ChemischeStof,levtrctm,levetiracetam,CONCTTE,ug/l
+ChemischeStof,lidcine,lidocaïne,CONCTTE,ug/l
+ChemischeStof,lincmcne,lincomycine,CONCTTE,ug/l
+ChemischeStof,linrn,linuron,CONCTTE,ug/l
+ChemischeStof,lostan,losartan,CONCTTE,ug/l
+ChemischeStof,lufnrn,lufenuron,CONCTTE,ug/l
+ChemischeStof,mAh,metaldehyde,CONCTTE,ug/l
+ChemischeStof,malinhdzde,maleinehydrazide,CONCTTE,ug/l
+ChemischeStof,malton,malathion,CONCTTE,ug/l
+ChemischeStof,mandppAd,mandipropamide,CONCTTE,ug/l
+ChemischeStof,mebdzl,mebendazol,CONCTTE,ug/l
+ChemischeStof,mecbm,mecarbam,CONCTTE,ug/l
+ChemischeStof,mecppP,mecoprop-P,CONCTTE,ug/l
+ChemischeStof,mefpDC2y,mefenpyr-diethyl,CONCTTE,ug/l
+ChemischeStof,mepnprm,mepanipyrim,CONCTTE,ug/l
+ChemischeStof,mepqCl,mepiquatchloride,CONCTTE,ug/l
+ChemischeStof,mepqat,mepiquat,CONCTTE,ug/l
+ChemischeStof,mesnl,mestranol,CONCTTE,ug/l
+ChemischeStof,messfrnC1y,mesosulfuron-methyl,CONCTTE,ug/l
+ChemischeStof,meston,mesotrion,CONCTTE,ug/l
+ChemischeStof,metbmrn,metobromuron,CONCTTE,ug/l
+ChemischeStof,metbtazrn,metabenzthiazuron,CONCTTE,ug/l
+ChemischeStof,metbzn,metribuzin,CONCTTE,ug/l
+ChemischeStof,metcnzl,metconazool,CONCTTE,ug/l
+ChemischeStof,metdton,methidathion,CONCTTE,ug/l
+ChemischeStof,metfmne,metformine,CONCTTE,ug/l
+ChemischeStof,metfnn,metrafenon,CONCTTE,ug/l
+ChemischeStof,metlCl,metolachloor,CONCTTE,ug/l
+ChemischeStof,metlClC2asfz,metolachlor ethaansulfonzuur,CONCTTE,ug/l
+ChemischeStof,metlClOoHac,metolachlor oxo azijnzuur,CONCTTE,ug/l
+ChemischeStof,metml,methomyl,CONCTTE,ug/l
+ChemischeStof,metndzl,metronidazol,CONCTTE,ug/l
+ChemischeStof,metocb,methiocarb,CONCTTE,ug/l
+ChemischeStof,metocbSO,methiocarbsulfoxide,CONCTTE,ug/l
+ChemischeStof,metocbsfn,methiocarbsulfon,CONCTTE,ug/l
+ChemischeStof,metpll,metoprolol,CONCTTE,ug/l
+ChemischeStof,metptn,methoprotryn,CONCTTE,ug/l
+ChemischeStof,metxrn,metoxuron,CONCTTE,ug/l
+ChemischeStof,mevfs,mevinfos,CONCTTE,ug/l
+ChemischeStof,milbmcA3,milbemycin A3,CONCTTE,ug/l
+ChemischeStof,milbmcA4,milbemycin A4,CONCTTE,ug/l
+ChemischeStof,minrlole,minerale olie,CONCTTE,ug/l
+ChemischeStof,mirx,mirex,CONCTTE,ug/l
+ChemischeStof,mlxl,metalaxyl,CONCTTE,ug/l
+ChemischeStof,mlxlM,metalaxyl-M,CONCTTE,ug/l
+ChemischeStof,mmtn,metamitron,CONCTTE,ug/l
+ChemischeStof,monrn,monuron,CONCTTE,ug/l
+ChemischeStof,muskxln,musk-xyleen,CONCTTE,ug/l
+ChemischeStof,mzCl,metazachloor,CONCTTE,ug/l
+ChemischeStof,nafclne,nafcilline,CONCTTE,ug/l
+ChemischeStof,nappAd,napropamide,CONCTTE,ug/l
+ChemischeStof,napxn,naproxen,CONCTTE,ug/l
+ChemischeStof,nicsfrn,nicosulfuron,CONCTTE,ug/l
+ChemischeStof,nuarml,nuarimol,CONCTTE,ug/l
+ChemischeStof,oladmcn,oleandomycin,CONCTTE,ug/l
+ChemischeStof,omtat,omethoaat,CONCTTE,ug/l
+ChemischeStof,oxzpm,oxazepam,CONCTTE,ug/l
+ChemischeStof,pacbtzl,paclobutrazol,CONCTTE,ug/l
+ChemischeStof,parctml,paracetamol,CONCTTE,ug/l
+ChemischeStof,penccrn,pencycuron,CONCTTE,ug/l
+ChemischeStof,pencnzl,penconazool,CONCTTE,ug/l
+ChemischeStof,pendmtln,pendimethalin,CONCTTE,ug/l
+ChemischeStof,penffn,penflufen,CONCTTE,ug/l
+ChemischeStof,pentoprd,penthiopyrad,CONCTTE,ug/l
+ChemischeStof,permtn,permethrin,CONCTTE,ug/l
+ChemischeStof,piclnfn,picolinafen,CONCTTE,ug/l
+ChemischeStof,picxsbn,picoxystrobin,CONCTTE,ug/l
+ChemischeStof,pinadn,pinoxaden,CONCTTE,ng/l
+ChemischeStof,pinadn,pinoxaden,CONCTTE,ug/l
+ChemischeStof,pipprn,pipamperon,CONCTTE,ug/l
+ChemischeStof,piprnbO,piperonyl-butoxide,CONCTTE,ug/l
+ChemischeStof,pirmcb,pirimicarb,CONCTTE,ug/l
+ChemischeStof,pirmcdC1y,pirimicarb-desmethyl,CONCTTE,ug/l
+ChemischeStof,poxflne,pentoxifylline,CONCTTE,ug/l
+ChemischeStof,primdn,primidon,CONCTTE,ug/l
+ChemischeStof,proClaz,prochloraz,CONCTTE,ug/l
+ChemischeStof,procmdn,procymidon,CONCTTE,ug/l
+ChemischeStof,profm,profam,CONCTTE,ug/l
+ChemischeStof,profnfs,profenofos,CONCTTE,ug/l
+ChemischeStof,progtrn,progesteron,CONCTTE,ug/l
+ChemischeStof,promtne,prometryne,CONCTTE,ug/l
+ChemischeStof,propAd,propyzamide,CONCTTE,ug/l
+ChemischeStof,propCl,propachloor,CONCTTE,ug/l
+ChemischeStof,propcnzl,propiconazol (som cis- en trans-),CONCTTE,ug/l
+ChemischeStof,propmcb,propamocarb,CONCTTE,ug/l
+ChemischeStof,propmcbHCl,propamocarb hydrochloride,CONCTTE,ug/l
+ChemischeStof,propnl,propanil,CONCTTE,ug/l
+ChemischeStof,propnll,propranolol,CONCTTE,ug/l
+ChemischeStof,propqzfp,propaquizafop,CONCTTE,ug/l
+ChemischeStof,proptfs,propetamfos,CONCTTE,ug/l
+ChemischeStof,propxr,propoxur,CONCTTE,ug/l
+ChemischeStof,propzne,propazine,CONCTTE,ug/l
+ChemischeStof,prosfcb,prosulfocarb,CONCTTE,ug/l
+ChemischeStof,prosfrn,prosulfuron,CONCTTE,ug/l
+ChemischeStof,protocnzl,prothioconazool,CONCTTE,ug/l
+ChemischeStof,pymtzne,pymetrozine,CONCTTE,ug/l
+ChemischeStof,pyrazfs,pyrazofos,CONCTTE,ug/l
+ChemischeStof,pyrcsbn,pyraclostrobin,CONCTTE,ug/l
+ChemischeStof,pyrdbn,pyridaben,CONCTTE,ug/l
+ChemischeStof,pyrdfl,pyridafol,CONCTTE,ug/l
+ChemischeStof,pyrdll,pyridalyl,CONCTTE,ug/l
+ChemischeStof,pyrdt,pyridaat,CONCTTE,ug/l
+ChemischeStof,pyrffnC2y,pyraflufen-ethyl,CONCTTE,ug/l
+ChemischeStof,pyrfnx,pyrifenox,CONCTTE,ug/l
+ChemischeStof,pyrmtnl,pyrimethanil,CONCTTE,ug/l
+ChemischeStof,pyrpxfn,pyriproxyfen,CONCTTE,ug/l
+ChemischeStof,pyrslm,pyroxsulam,CONCTTE,ng/l
+ChemischeStof,pyrslm,pyroxsulam,CONCTTE,ug/l
+ChemischeStof,pyrtnn,pyrethrinen,CONCTTE,ug/l
+ChemischeStof,pyrzl,pyrazol,CONCTTE,ug/l
+ChemischeStof,quetpne,quetiapine,CONCTTE,ug/l
+ChemischeStof,quincmn,quinoclamin,CONCTTE,ug/l
+ChemischeStof,quinmrc,quinmerac,CONCTTE,ug/l
+ChemischeStof,quinoxfn,quinoxyfen,CONCTTE,ug/l
+ChemischeStof,quizlfC2y,quizalofop-ethyl,CONCTTE,ug/l
+ChemischeStof,quizlfPC2y,quizalofop-P-ethyl,CONCTTE,ug/l
+ChemischeStof,rimsfrn,rimsulfuron,CONCTTE,ug/l
+ChemischeStof,rondzl,ronidazol,CONCTTE,ug/l
+ChemischeStof,roxtmcne,roxitromycine,CONCTTE,ug/l
+ChemischeStof,s12x5T4ClBen,"som 1,2,3,5- en 1,2,4,5-tetrachloorbenzeen",CONCTTE,ug/l
+ChemischeStof,s1314xyln,"som 1,3- en 1,4-xyleen",CONCTTE,ug/l
+ChemischeStof,s2425DClFol,"som 2,4- en 2,5-dichloorfenol",CONCTTE,ug/l
+ChemischeStof,s45C1y1Hbzta,som 4- en 5-methyl-1H-benzotriazool,CONCTTE,ng/l
+ChemischeStof,s45C1y1Hbzta,som 4- en 5-methyl-1H-benzotriazool,CONCTTE,ug/l
+ChemischeStof,s4C9yFol,som 4-nonylfenol-isomeren (vertakt),CONCTTE,ug/l
+ChemischeStof,sAOX,som adsorbeerbare organische halogeenverbindingen,CONCTTE,ug/l
+ChemischeStof,sC2oxdm,sethoxydim,CONCTTE,ug/l
+ChemischeStof,sCHLFa4,som 4 chlorofyl-a fracties,CONCTTE,ug/l
+ChemischeStof,sDClBen,som dichloorbenzeen-isomeren,CONCTTE,ug/l
+ChemischeStof,sDtocbmt,som dithiocarbamaten,CONCTTE,ug/l
+ChemischeStof,sEOX,som extraheerbare organische halogeenverbindingen,CONCTTE,ug/l
+ChemischeStof,sFEO,som Feopigment,CONCTTE,ug/l
+ChemischeStof,sFolwv,som fenolen waterdampvluchtig,CONCTTE,ug/l
+ChemischeStof,sHBCD,"som 1,2,5,6,9,10-hexabroomcyclododecaan",CONCTTE,ug/l
+ChemischeStof,sHpClepO,som heptachloorepoxide (som cis- en trans-),CONCTTE,ug/l
+ChemischeStof,sMAK,som monocyclische aromatische koolwaterstoffen (BTEX),CONCTTE,ug/l
+ChemischeStof,sNO3NO2,som nitraat en nitriet,CONCTTE,mg/l
+ChemischeStof,sPAK10,som 10 polycyclische aromatische koolwaterstoffen (VROM),CONCTTE,ug/l
+ChemischeStof,sPAK16,som 16 polycyclische aromatische koolwaterstoffen (EPA),CONCTTE,ug/l
+ChemischeStof,sPAK6,som 6 polycyclische aromatische koolwaterstoffen (Borneff),CONCTTE,ug/l
+ChemischeStof,sPBDE6,"som PBDE28, 47, 99, 100, 153, 154",CONCTTE,ug/l
+ChemischeStof,sTClBen,"som trichloorbenzenen (som 1,2,3- en 1,2,4- en 1,3,5-)",CONCTTE,ug/l
+ChemischeStof,sVOX,som vluchtige organische halogeenverbindingen,CONCTTE,ug/l
+ChemischeStof,sabcHBCD,"som a-, b- en c-HBCD",CONCTTE,ng/l
+ChemischeStof,sabcHBCD,"som a-, b- en c-HBCD",CONCTTE,ug/l
+ChemischeStof,salbtml,salbutamol,CONCTTE,ug/l
+ChemischeStof,salczr,salicylzuur,CONCTTE,ug/l
+ChemischeStof,sdmtn,som o-demeton en s-demeton,CONCTTE,ug/l
+ChemischeStof,seC4yazne,sebutylazine,CONCTTE,ug/l
+ChemischeStof,secC4yBen,secundair-butylbenzeen,CONCTTE,ug/l
+ChemischeStof,sedxne,sedaxane,CONCTTE,ug/l
+ChemischeStof,siltofm,silthiofam,CONCTTE,ug/l
+ChemischeStof,simvstne,simvastatine,CONCTTE,ug/l
+ChemischeStof,simzne,simazine,CONCTTE,ug/l
+ChemischeStof,slinvertPFOA,som lineair en vertakte perfluoroctaanzuur,CONCTTE,ng/l
+ChemischeStof,slinvertPFOA,som lineair en vertakte perfluoroctaanzuur,CONCTTE,ug/l
+ChemischeStof,slinvertPFOS,som lineair en vertakte perfluoroctylsulfonaat,CONCTTE,ng/l
+ChemischeStof,slinvertPFOS,som lineair en vertakte perfluoroctylsulfonaat,CONCTTE,ug/l
+ChemischeStof,sotll,sotalol,CONCTTE,ug/l
+ChemischeStof,spinsd,spinosad,CONCTTE,ug/l
+ChemischeStof,spinsnA,spinosynA,CONCTTE,ug/l
+ChemischeStof,spinsnD,spinosynD,CONCTTE,ug/l
+ChemischeStof,spirdcfn,spirodiclofen,CONCTTE,ug/l
+ChemischeStof,spirmsfn,spiromesifen,CONCTTE,ug/l
+ChemischeStof,spirttmt,spirotetramat,CONCTTE,ug/l
+ChemischeStof,styrn,styreen,CONCTTE,ug/l
+ChemischeStof,sulcton,sulcotrion,CONCTTE,ug/l
+ChemischeStof,sulfClprdzne,sulfachloorpyridazine,CONCTTE,ug/l
+ChemischeStof,sulfafr,sulfoxaflor,CONCTTE,ug/l
+ChemischeStof,sulfdazne,sulfadiazine,CONCTTE,ug/l
+ChemischeStof,sulfdmdne,sulfadimidine,CONCTTE,ug/l
+ChemischeStof,sulfdmtoxne,sulfadimethoxine,CONCTTE,ug/l
+ChemischeStof,sulfmrzn,sulfamerazin,CONCTTE,ug/l
+ChemischeStof,sulfmtoazl,sulfamethoxazol,CONCTTE,ug/l
+ChemischeStof,sulfprdne,sulfapyridine,CONCTTE,ug/l
+ChemischeStof,sulfqoxlne,sulfaquinoxaline,CONCTTE,ug/l
+ChemischeStof,sulfsfrn,sulfosulfuron,CONCTTE,ug/l
+ChemischeStof,sulftp,sulfotep,CONCTTE,ug/l
+ChemischeStof,sverttPFHxS,som vertakte PFHxS-isomeren,CONCTTE,ng/l
+ChemischeStof,sverttPFHxS,som vertakte PFHxS-isomeren,CONCTTE,ug/l
+ChemischeStof,sverttPFOA,som vertakte PFOA-isomeren,CONCTTE,ng/l
+ChemischeStof,sverttPFOA,som vertakte PFOA-isomeren,CONCTTE,ug/l
+ChemischeStof,sverttPFOS,som vertakte PFOS-isomeren,CONCTTE,ng/l
+ChemischeStof,sverttPFOS,som vertakte PFOS-isomeren,CONCTTE,ug/l
+ChemischeStof,t1011DHOx101,"trans-10,11-dihydroxy-10,11-dihydrocarbazepine",CONCTTE,ug/l
+ChemischeStof,t12DClC2e,"trans-1,2-dichlooretheen",CONCTTE,ug/l
+ChemischeStof,t13DClC3e,"trans-1,3-dichloorpropeen",CONCTTE,ug/l
+ChemischeStof,tCldn,trans-chloordaan,CONCTTE,ug/l
+ChemischeStof,tHpClepO,trans-heptachloorepoxide,CONCTTE,ug/l
+ChemischeStof,tabdzl,thiabendazol,CONCTTE,ug/l
+ChemischeStof,tamxfn,tamoxifen,CONCTTE,ug/l
+ChemischeStof,taufvlnt,tau-fluvalinaat,CONCTTE,ug/l
+ChemischeStof,tebcnzl,tebuconazol,CONCTTE,ug/l
+ChemischeStof,tebfprd,tebufenpyrad,CONCTTE,ug/l
+ChemischeStof,tecnzn,tecnazeen,CONCTTE,ug/l
+ChemischeStof,tecrbzneC1y,thiencarbazone-methyl,CONCTTE,ug/l
+ChemischeStof,tefbzrn,teflubenzuron,CONCTTE,ug/l
+ChemischeStof,teftn,tefluthrin,CONCTTE,ug/l
+ChemischeStof,teldn,telodrin,CONCTTE,ug/l
+ChemischeStof,tembtone,tembotrione,CONCTTE,ug/l
+ChemischeStof,teplxdm,tepraloxydim,CONCTTE,ug/l
+ChemischeStof,terC4yazne,terbutylazine,CONCTTE,ug/l
+ChemischeStof,terbfs,terbufos,CONCTTE,ug/l
+ChemischeStof,terbmtn,terbumeton,CONCTTE,ug/l
+ChemischeStof,terbtlne,terbutaline,CONCTTE,ug/l
+ChemischeStof,terbtn,terbutrin,CONCTTE,ug/l
+ChemischeStof,tfluoxsbn,trans-fluoxastrobin,CONCTTE,ug/l
+ChemischeStof,tftn,transfluthrin,CONCTTE,ug/l
+ChemischeStof,thiacpd,thiacloprid,CONCTTE,ug/l
+ChemischeStof,thiamtxm,thiamethoxam,CONCTTE,ug/l
+ChemischeStof,thifsfrnC1y,thifensulfuron-methyl,CONCTTE,ug/l
+ChemischeStof,tiamlne,tiamuline,CONCTTE,ug/l
+ChemischeStof,toDcb,thiodicarb,CONCTTE,ug/l
+ChemischeStof,tofnC1y,thiofanaat-methyl,CONCTTE,ug/l
+ChemischeStof,tolcfsC1y,tolclofos-methyl,CONCTTE,ug/l
+ChemischeStof,tolfAezr,tolfenaminezuur,CONCTTE,ug/l
+ChemischeStof,tolfande,tolylfluanide,CONCTTE,ug/l
+ChemischeStof,tomtn,thiometon,CONCTTE,ug/l
+ChemischeStof,topmzn,topramezon,CONCTTE,ug/l
+ChemischeStof,tpermtn,trans-permethrin,CONCTTE,ug/l
+ChemischeStof,tpyrfnx,trans-pyrifenox,CONCTTE,ug/l
+ChemischeStof,tramdl,tramadol,CONCTTE,ug/l
+ChemischeStof,tris2C4oxC2y,tris(2-butoxyethyl)fosfaat,CONCTTE,ug/l
+ChemischeStof,tritsfrn,tritosulfuron,CONCTTE,ug/l
+ChemischeStof,ttC4yBen,tertiair-butylbenzeen,CONCTTE,ug/l
+ChemischeStof,valfnlt,valifenalaat,CONCTTE,ug/l
+ChemischeStof,valstan,valsartan,CONCTTE,ug/l
+ChemischeStof,valum,valium,CONCTTE,ug/l
+ChemischeStof,vamdton,vamidothion,CONCTTE,ug/l
+ChemischeStof,venlfxne,venlafaxine,CONCTTE,ng/l
+ChemischeStof,venlfxne,venlafaxine,CONCTTE,ug/l
+ChemischeStof,vinczln,vinclozolin,CONCTTE,ug/l
+ChemischeStof,zOaAd,zoxamide,CONCTTE,ug/l
+Grootheid,,,AANTPVLME,n/dl
+Grootheid,,,ALKLTT,mmol/l
+Grootheid,,,BEDKG,%
+Grootheid,,,BEMSROPVK,m2
+Grootheid,,,CONCTTE,mg/l
+Grootheid,,,CONCTTE,n/dl
+Grootheid,,,CONCTTE,n/ml
+Grootheid,,,CONCTTE,ug/l
+Grootheid,,,DIEPTE,cm
+Grootheid,,,DIEPTE,dm
+Grootheid,,,DIEPTE,m
+Grootheid,,,DROOGVLGD,%
+Grootheid,,,E,/m
+Grootheid,,,E,DIMSLS
+Grootheid,,,EXTTCEFCELBT,/m
+Grootheid,,,FOTNSDHD,umol/m2.s
+Grootheid,,,GELDHD,mS/cm
+Grootheid,,,GELDHD,mS/m
+Grootheid,,,GELDHD,uS/cm
+Grootheid,,,HH,mg/l
+Grootheid,,,HH,mmol/l
+Grootheid,,,HH,oD
+Grootheid,,,IONRTO,%
+Grootheid,,,MGETAL,meq/l
+Grootheid,,,MGETAL,mg/l
+Grootheid,,,MGETAL,mmol/l
+Grootheid,,,MONSDTE,cm
+Grootheid,,,MONSDTE,m
+Grootheid,,,OPPVTE,ha
+Grootheid,,,PGETAL,meq/l
+Grootheid,,,PGETAL,mmol/l
+Grootheid,,,SALNTT,DIMSLS
+Grootheid,,,SALNTT,mmol/l
+Grootheid,,,STROOMRTG,DIMSLS
+Grootheid,,,STROOMSHD,m/s
+Grootheid,,,T,oC
+Grootheid,,,TROEBHD,FTU
+Grootheid,,,VERZDGGD,%
+Grootheid,,,WATDTE,dm
+Grootheid,,,WATDTE,m
+Grootheid,,,X_CODNT,m
+Grootheid,,,Y_CODNT,m
+Grootheid,,,ZICHT,cm
+Grootheid,,,ZICHT,dm
+Grootheid,,,ZICHT,m
+Grootheid,,,pH,DIMSLS
+Object,ANNA,Anabaena,AANTPVLME,n/ml
+Object,ANNA,Anabaena,CONCTTE,mm3/l
+Object,ANNA,Anabaena,CONCTTE,n/ml
+Object,ANNA,Anabaena,VOLMFTE,mm3/l
+Object,ANNO,Anabaenopsis,AANTPVLME,n/ml
+Object,ANNO,Anabaenopsis,VOLMFTE,mm3/l
+Object,APNI,Aphanizomenon,AANTPVLME,n/ml
+Object,APNI,Aphanizomenon,CONCTTE,mm3/l
+Object,APNI,Aphanizomenon,CONCTTE,n/ml
+Object,APNI,Aphanizomenon,VOLMFTE,mm3/l
+Object,CUSP,Cuspidothrix,AANTPVLME,n/ml
+Object,CUSP,Cuspidothrix,VOLMFTE,mm3/l
+Object,CYLI,Cylindrospermopsis,AANTPVLME,n/ml
+Object,CYLI,Cylindrospermopsis,VOLMFTE,mm3/l
+Object,E_COLI,Escherichia coli,AANTPVLME,n/dl
+Object,E_COLI,Escherichia coli,CONCTTE,n/dl
+Object,FLAB,Flab (Floating Algae Beds),VOLMFTE,%
+Object,FYT_bloei13,Fytopl. - bloeisoort (13) Gonyostomum semen,CONCTTE,n/ml
+Object,GEUR,Geur,AANWZHD,DIMSLS
+Object,GEUR,Geur,AFWKG,DIMSLS
+Object,GEUR,Geur,CONCTTE,DIMSLS
+Object,GLTR,Gloeotrichia,AANTPVLME,n/ml
+Object,GLTR,Gloeotrichia,VOLMFTE,mm3/l
+Object,GR,Gloeirest,AFSDRDMT,%
+Object,GR,Gloeirest,CONCTTE,%
+Object,GR,Gloeirest,CONCTTE,mg/l
+Object,GR,Gloeirest,MASSFTE,%
+Object,GR,Gloeirest,VOLMFTE,%
+Object,HYBDVS,Hybride vis,AANTL,n
+Object,IJSDK,IJsdek,AANWZHD,DIMSLS
+Object,IJSDK,IJsdek,CONCTTE,DIMSLS
+Object,INTTNLETRCCN,Intestinale enterococcen,AANTPVLME,n/dl
+Object,INTTNLETRCCN,Intestinale enterococcen,CONCTTE,n/dl
+Object,KLEUR,Kleur,AANWZHD,DIMSLS
+Object,KLEUR,Kleur,AFWKG,DIMSLS
+Object,KLEUR,Kleur,CONCTTE,DIMSLS
+Object,KROOS,Kroos,BEDKG,%
+Object,KROOS,Kroos,CONCTTE,%
+Object,LEGONLA,Legionella,AANTPVLME,n/l
+Object,MICY,Microcystis,AANTPVLME,n/ml
+Object,MICY,Microcystis,CONCTTE,mm3/l
+Object,MICY,Microcystis,CONCTTE,n/ml
+Object,MICY,Microcystis,VOLMFTE,mm3/l
+Object,OLE,Olie,AANWZHD,DIMSLS
+Object,OLE,Olie,CONCTTE,DIMSLS
+Object,OS,Onopgeloste stoffen,CONCTTE,mg/l
+Object,OSCL,Oscillatoria [1],AANTPVLME,n/ml
+Object,OSCL,Oscillatoria [1],VOLMFTE,mm3/l
+Object,PHOI,Phormidium [1],AANTPVLME,n/ml
+Object,PHOI,Phormidium [1],CONCTTE,mm3/l
+Object,PHOI,Phormidium [1],CONCTTE,n/ml
+Object,PHOI,Phormidium [1],VOLMFTE,mm3/l
+Object,PLAN,Planktothrix,AANTPVLME,n/ml
+Object,PLAN,Planktothrix,CONCTTE,mm3/l
+Object,PLAN,Planktothrix,CONCTTE,n/ml
+Object,PLAN,Planktothrix,VOLMFTE,mm3/l
+Object,SCHUIM,Schuim,AANWZHD,DIMSLS
+Object,SCHUIM,Schuim,CONCTTE,DIMSLS
+Object,THERMTLRTCLS,Thermotolerante Coli's (incubatie bij 44 C),AANTPVLME,n/dl
+Object,TOTCLS,Totaal Coli's (incubatie bij 37 C),AANTPVLME,n/dl
+Object,VEGTTE,Vegetatie,BEDKG,%
+Object,VEGTTE,Vegetatie,VOLMFTE,%
+Object,VOGL,Vogel,AANTL,n
+Object,VUIL,Vuil,AANWZHD,DIMSLS
+Object,VUIL,Vuil,CONCTTE,DIMSLS
+Object,WORO,Woronichinia,AANTPVLME,n/ml
+Object,WORO,Woronichinia,VOLMFTE,mm3/l
+Object,sPTOXSBAGN,som potentieel toxische blauwalgen,AANTPVLME,n/ml
+Object,sPTOXSBAGN,som potentieel toxische blauwalgen,CONCTTE,mm3/l
+Object,sPTOXSBAGN,som potentieel toxische blauwalgen,CONCTTE,n/ml
+Object,sPTOXSBAGN,som potentieel toxische blauwalgen,VOLMFTE,mm3/l
+Object,sTOXSBAGN5,som 5 toxische blauwalgen,AANTPVLME,n/ml
+Object,sTOXSBAGN5,som 5 toxische blauwalgen,CONCTTE,mm3/l
+Object,sTOXSBAGN5,som 5 toxische blauwalgen,CONCTTE,n/ml
+Object,sTOXSBAGN5,som 5 toxische blauwalgen,VOLMFTE,mm3/l
