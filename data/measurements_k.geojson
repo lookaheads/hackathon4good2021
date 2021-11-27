@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
 "features": [
 { "type": "Feature", "properties": { "Waterbeheerder.omschrijving": "Hoogheemraadschap De Stichtse Rijnlanden", "Meetobject.code": "NL14_20001", "K": 5.625 }, "geometry": { "type": "Point", "coordinates": [ 138747.0, 454494.0 ] } },
 { "type": "Feature", "properties": { "Waterbeheerder.omschrijving": "Hoogheemraadschap De Stichtse Rijnlanden", "Meetobject.code": "NL14_20001", "K": 5.625 }, "geometry": { "type": "Point", "coordinates": [ 138747.0, 454494.0 ] } },
