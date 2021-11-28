@@ -1,0 +1,242 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+    <title>Waterquality in correlation with greenhouses utilizing the ArcGIS API for JavaScript 4.21</title>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.21/esri/themes/light/main.css" />
+
+    <style>
+      html, 
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+
+    <script src="https://js.arcgis.com/4.21/"></script>
+
+    <script>
+      require(["esri/config", "esri/Map", "esri/layers/CSVLayer",
+        "esri/layers/GroupLayer", "esri/views/MapView", "esri/widgets/Legend",
+        "esri/widgets/LayerList"], (
+        esriConfig,
+        Map,
+        CSVLayer,
+		GroupLayer,
+        MapView,
+        Legend,
+		  LayerList
+      ) => {
+      esriConfig.apiKey = "AAPK465a1699324041ddb4d8a34796dc1dd1hqs77DrqDSUmaYBEyK9grCzrqzosr826epG9ocP4xSa9fpg0u1LlIOUb_ElJV6s7";
+    const chlorophyta_url = "data/measurements_chlorophyta.csv";
+    const imidacloprid_url = "data/measurements_imidacloprid.csv";
+    const esox_lucius_url = "data/measurements_esox-lucius.csv ";
+    const ptot_url = "data/measurements_ptot.csv";
+		const ntot_url = "data/measurements_ntot.csv";
+		const ktot_url = "data/measurements_k.csv";
+    const mg_url = "data/measurements_Mg.csv";
+    const so4_url = "data/measurements_SO4.csv";
+		const propiconazol_url = "data/measurements_propiconazol.csv";
+		const gh_url = "data/greenhouses.csv";
+        const npk_tmp = {
+          title: "Total",
+          content: "value in mg/ml"
+        }; 
+		const ntot_tmp = {
+          title: "N Total",
+          content: "value in mg/ml"
+        }; 
+        const pest_rdr = {
+          type: "heatmap",
+          field: "mag",
+          colorStops: [
+            { color: "rgba(10, 00, 00, 00)", ratio: 0 },
+            { color: "rgba(100, 00, 00, 0.5)", ratio: 0.1 },
+            { color: "rgba(255, 00, 00, 1)", ratio: 1 }
+          ],
+          blurRadius: 20,
+          maxPixelIntensity: 100,
+          minPixelIntensity: 10
+        };
+const npk_rdr = {
+          type: "heatmap",
+          field: "mag",
+          colorStops: [
+            { color: "rgba(00, 10, 00, 0)", ratio: 0 },
+            { color: "rgba(00, 100, 00, 0.5)", ratio: 0.1 },
+            { color: "rgba(00, 255, 00, 1)", ratio: 1 }
+          ],
+          blurRadius: 10,
+          maxPixelIntensity: 50,
+          minPixelIntensity: 0
+        };
+    const so2_rdr = {
+          type: "heatmap",
+          field: "mag",
+          colorStops: [
+            { color: "rgba(00, 10, 00, 0)", ratio: 0 },
+            { color: "rgba(00, 100, 100, 0.5)", ratio: 0.1 },
+            { color: "rgba(00, 255, 255, 1)", ratio: 1 }
+          ],
+          blurRadius: 10,
+          maxPixelIntensity: 1000,
+          minPixelIntensity: 50
+        };
+		const bio_rdr = {
+          type: "heatmap",
+          field: "mag",
+          colorStops: [
+            { color: "rgba(0, 0, 10, 0)", ratio: 0 },
+            { color: "rgba(0, 0, 100, 0.5)", ratio: 0.5 },
+            { color: "rgba(0, 0, 255, 1)", ratio: 1 }
+          ],
+          blurRadius: 10,
+          maxPixelIntensity: 100,
+          minPixelIntensity: 5
+        };
+		const gh_rdr = {
+			  type: "simple",  // autocasts as new SimpleRenderer()
+			  symbol: {
+				type: "simple-marker",  // autocasts as new SimpleMarkerSymbol()
+				size: 5,
+				color: [240, 200, 100, 0.25],
+				style: "square",
+				outline: {  // autocasts as new SimpleLineSymbol()
+				  width: 0,
+				  color: "white"
+				}
+			  }};
+        const ptot_layer = new CSVLayer({
+          url: ptot_url,
+          title: "P Total",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: npk_rdr,
+		  opacity: 0.5
+        });
+		const ntot_layer = new CSVLayer({
+          url: ntot_url,
+          title: "N Total",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: npk_rdr,
+		  opacity: 0.5
+        });
+    const ktot_layer = new CSVLayer({
+          url: ktot_url,
+          title: "K Total",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: npk_rdr,
+		  opacity: 0.5
+        });
+    const mg_layer = new CSVLayer({
+          url: mg_url,
+          title: "Mg Total",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: npk_rdr,
+		  opacity: 0.5
+        });
+    const so4_layer = new CSVLayer({
+          url: so4_url,
+          title: "SO4 Total",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: so2_rdr,
+		  opacity: 0.5
+        });
+		const neonic_layer = new CSVLayer({
+          url: imidacloprid_url,
+          title: "imidacloprid residues",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: pest_rdr,
+		  opacity: 0.5
+        });
+		const propiconazol_layer = new CSVLayer({
+          url: propiconazol_url,
+          title: "propiconazol residues",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: pest_rdr,
+		  opacity: 0.5
+        });
+    const chlorophyta_layer = new CSVLayer({
+          url: chlorophyta_url,
+          title: "chlorophyta sightings",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: bio_rdr,
+		  opacity: 0.5
+        });
+    const esox_layer = new CSVLayer({
+          url: esox_lucius_url,
+          title: "esox lucius sightings",
+          copyright: "Lookaheads",
+          popupTemplate: npk_tmp,
+          renderer: bio_rdr,
+		  opacity: 0.5
+        });
+    
+		const gh_layer = new CSVLayer({
+          url: gh_url,
+          title: "Greenhouse locations",
+		renderer: gh_rdr
+        });
+		  
+		const npk_layers = new GroupLayer({
+          title: "NPK Layers",
+          visible: true,
+          layers: [ptot_layer, ntot_layer, ktot_layer, so4_layer],
+          opacity: 0.75
+        });
+    const pr_layers = new GroupLayer({
+          title: "Pesticide residues Layers",
+          visible: true,
+          layers: [neonic_layer, propiconazol_layer],
+          opacity: 0.75
+        });
+    const bd_layers = new GroupLayer({
+          title: "Biodiversity Layers",
+          visible: true,
+          layers: [chlorophyta_layer,esox_layer],
+          opacity: 0.75
+        });
+        const map = new Map({
+          basemap: "gray-vector",
+          layers: [npk_layers, pr_layers, bd_layers, gh_layer]
+        });
+        const view = new MapView({
+          container: "viewDiv",
+          center: [5, 52],
+          zoom: 7,
+          map: map
+        });
+		
+
+        view.when(() => {
+          // Create the LayerList widget with the associated actions
+          // and add it to the top-right corner of the view.
+
+          const layerList = new LayerList({
+            view: view
+          });
+
+          // Add widget to the top right corner of the view
+          view.ui.add(layerList, "top-right");
+        });
+       
+      });
+    </script>
+  </head>
+
+  <body> 
+    <div id="viewDiv"></div>
+  </body>
+</html>
