@@ -1,0 +1,169 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+    <title>Visualize points with a heatmap | Sample | ArcGIS API for JavaScript 4.21</title>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.21/esri/themes/light/main.css" />
+
+    <style>
+      html, 
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+
+    <script src="https://js.arcgis.com/4.21/"></script>
+
+    <script>
+      require(["esri/Map", "esri/layers/CSVLayer", "esri/views/MapView", "esri/widgets/Legend", "esri/widgets/FeatureTable"], (
+        Map,
+        CSVLayer,
+        MapView,
+	    FeatureTable,
+        Legend
+      ) => {
+        const ptot_url = "measurements_ptot.csv";
+		const ntot_url = "measurements_ntot.csv";
+		const ktot_url = "measurements_k.csv";
+		const propiconazol_url = "measurements_propiconazol.csv";
+		const imidacloprid_url = "measurements_imidacloprid.csv";
+		const gh_url = "greenhouses.csv";
+        const ptot_tmp = {
+          title: "P Total",
+          content: "value in mg/ml"
+        }; 
+		const ntot_tmp = {
+          title: "N Total",
+          content: "value in mg/ml"
+        }; 
+        const renderer = {
+          type: "heatmap",
+          colorStops: [
+            { color: "rgba(10, 00, 00, 00)", ratio: 0 },
+            { color: "rgba(100, 00, 00, 0.5)", ratio: 0.1 },
+            { color: "rgba(255, 00, 00, 1)", ratio: 1 }
+          ],
+          maxPixelIntensity: 100,
+          minPixelIntensity: 0
+        };
+const renderer2 = {
+          type: "heatmap",
+          colorStops: [
+            { color: "rgba(00, 10, 00, 0)", ratio: 0 },
+            { color: "rgba(00, 100, 00, 0.5)", ratio: 0.1 },
+            { color: "rgba(00, 255, 00, 1)", ratio: 1 }
+          ],
+          maxPixelIntensity: 100,
+          minPixelIntensity: 0
+        };
+		const propiconazol_rdr = {
+          type: "heatmap",
+          colorStops: [
+            { color: "rgba(0, 10, 10, 0)", ratio: 0 },
+            { color: "rgba(0, 100, 100, 0.5)", ratio: 0.1 },
+            { color: "rgba(0, 255, 255, 1)", ratio: 1 }
+          ],
+          maxPixelIntensity: 100,
+          minPixelIntensity: 0
+        };
+		const neonic_rdr = {
+          type: "heatmap",
+          colorStops: [
+            { color: "rgba(0, 0, 10, 0)", ratio: 0 },
+            { color: "rgba(0, 0, 100, 0.5)", ratio: 0.1 },
+            { color: "rgba(0, 0, 255, 1)", ratio: 1 }
+          ],
+          maxPixelIntensity: 100,
+          minPixelIntensity: 0
+        };
+		const gh_rdr = {
+			  type: "simple",  // autocasts as new SimpleRenderer()
+			  symbol: {
+				type: "simple-marker",  // autocasts as new SimpleMarkerSymbol()
+				size: 5,
+				color: [240, 200, 100, 0.25],
+				style: "square",
+				outline: {  // autocasts as new SimpleLineSymbol()
+				  width: 0,
+				  color: "white"
+				}
+			  }};
+        const ptot_layer = new CSVLayer({
+          url: ptot_url,
+          title: "P Total",
+          copyright: "Lookaheads",
+          popupTemplate: ptot_tmp,
+          renderer: renderer,
+		  opacity: 0.5
+        });
+		const ntot_layer = new CSVLayer({
+          url: ntot_url,
+          title: "N Total",
+          copyright: "Lookaheads",
+          popupTemplate: ntot_tmp,
+          renderer: renderer2,
+		  opacity: 0.5
+        });
+		const neonic_layer = new CSVLayer({
+          url: ntot_url,
+          title: "imidacloprid residues",
+          copyright: "Lookaheads",
+          popupTemplate: ntot_tmp,
+          renderer: neonic_rdr,
+		  opacity: 0.5
+        });
+		const propiconazol_layer = new CSVLayer({
+          url: propiconazol_url,
+          title: "propiconazol residues",
+          copyright: "Lookaheads",
+          popupTemplate: ntot_tmp,
+          renderer: propiconazol_rdr,
+		  opacity: 0.5
+        });
+		const gh_layer = new CSVLayer({
+          url: gh_url,
+          title: "Greenhouse locations",
+		renderer: gh_rdr
+        });
+        const map = new Map({
+          basemap: "gray-vector",
+          layers: [ptot_layer, ntot_layer, neonic_layer, propiconazol_layer, gh_layer]
+        });
+        const view = new MapView({
+          container: "viewDiv",
+          center: [5, 52],
+          zoom: 7,
+          map: map
+        });
+
+        
+	
+		const featureTable = new FeatureTable({
+		  view: view, // The view property must be set for the select/highlight to work
+		  layer: CSVLayer,
+			visibleElements : {
+				   header: true,
+				   menu: true,
+				   menuItems: {
+					 clearSelection: true,
+					 refreshData: false,
+					 toggleColumns: false
+				   },
+				   selectionColumn: false
+				},
+		  container: "viewDiv"
+		});
+      });
+    </script>
+  </head>
+
+  <body> 
+    <div id="viewDiv"></div>
+  </body>
+</html>
