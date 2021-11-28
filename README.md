@@ -1,13 +1,13 @@
 # hackathon4good2021 team: lookaheads
 
 ## The result
-[ESRI Platform Link](https://www.ortenburgers.de/enhanced.html)
+Take a look at our results here at the [ESRI Platform](https://www.ortenburgers.de/enhanced.html)
 
 ## The problem
 Greenhouse farmers in the Netherlands are facing a structural absence of information. Especially a lack of awareness in terms of the water quality and biodiversity loss. 
 
 ## The idea
-Our innovative idea is all about creating transparency for sustainability for greenhouse farmers and involving the society as an external co-creator for change. Therefore, we developed an idea for a gamified rewarding system to encourage farmers for less environmental harm while providing a way for supporting data collection. As a consequence, GHF can improve their finances (e.g. decreasing costs) as well as marketing (e.g. signaling that they care)!
+Our innovative idea is all about creating transparency for sustainability for greenhouse farmers and involving the society as an external co-creator for change. Therefore, we developed an idea for a gamified rewarding system to encourage farmers for less environmental harm while providing a way for supporting data collection. As a consequence, GHF can improve their finances (e.g. decreasing costs) as well as marketing (e.g. signaling that they care)! Also, the idea addresses the SDGs 6 (Clean Water and Sanitation), 11 (Sustainable Cities and Communities) and 14 (Life below Water)/ 15 (Life on Land). 
 
 ## Usage of ESRI
 We are using ESRI and ArcGIS.js to have access to the water quality data visually. 
