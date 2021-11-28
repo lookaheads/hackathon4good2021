@@ -12,3 +12,6 @@ That way we can spot correlations and possible defects in a greenhouses waterman
 
 ## Usage of python geopandas 
 With python geopandas we are preparing the data for Arcgis. 
+
+
+![Map](https://github.com/lookaheads/hackathon4good2021/blob/main/pictures/Map.png)
