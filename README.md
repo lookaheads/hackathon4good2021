@@ -18,7 +18,7 @@ With python geopandas we are preparing the data for Arcgis.
 
 Our steps from idea to solution:
 1. Gathering data (official datasets & additional sources e.g. https://www-pdok-nl, https://www.schielandendekrimpenerwaard.nl/)
-2. Cleaning and transforming data (jupyter notebooks using geo pandas  ![Map](measurements.py) )
+2. Cleaning and transforming data ([jupyter notebooks](https://github.com/lookaheads/hackathon4good2021/tree/main/code)  using geo pandas  ![Map](measurements.py) )
 3. Finding significant patterns (ESRI and ArcGIS)
 4. Idea generation & prototype building
 5. Presentation
